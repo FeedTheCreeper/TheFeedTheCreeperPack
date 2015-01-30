@@ -1,0 +1,48 @@
+###############################################################################
+#  Metallurgy changes
+###############################################################################
+
+recipes.addShaped( <Metallurgy:bronze.axe>, [
+   [<ore:ingotBronze>,  <ore:ingotBronze>,   null],
+   [<ore:ingotBronze>,  <ore:stickWood>,     null],
+   [null,               <ore:stickWood>,     null]]);
+   
+recipes.addShaped( <Metallurgy:bronze.sword>, [
+   [null,   <ore:ingotBronze>,   null],
+   [null,   <ore:ingotBronze>,   null],
+   [null,   <ore:stickWood>,     null]]);
+   
+recipes.addShaped( <Metallurgy:bronze.hoe>, [
+   [<ore:ingotBronze>,  <ore:ingotBronze>,   null],
+   [null,               <ore:stickWood>,     null],
+   [null,               <ore:stickWood>,     null]]);
+   
+recipes.addShaped( <Metallurgy:bronze.shovel>, [
+   [null,   <ore:ingotBronze>,   null],
+   [null,   <ore:stickWood>,     null],
+   [null,   <ore:stickWood>,     null]]);
+   
+recipes.addShaped( <Metallurgy:bronze.pickaxe>, [
+   [<ore:ingotBronze>,  <ore:ingotBronze>,   <ore:ingotBronze>],
+   [null,               <ore:stickWood>,     null],
+   [null,               <ore:stickWood>,     null]]);
+   
+recipes.addShaped( <Metallurgy:metallurgy.bronze.helmet>, [
+   [<ore:ingotBronze>,  <ore:ingotBronze>,   <ore:ingotBronze>],
+   [<ore:ingotBronze>,  null,                <ore:ingotBronze>],
+   [null,               null,                null]]);
+   
+recipes.addShaped( <Metallurgy:metallurgy.bronze.leggings>, [
+   [<ore:ingotBronze>,  <ore:ingotBronze>,   <ore:ingotBronze>],
+   [<ore:ingotBronze>,  null,                <ore:ingotBronze>],
+   [<ore:ingotBronze>,  null,                <ore:ingotBronze>]]);
+   
+recipes.addShaped( <Metallurgy:metallurgy.bronze.chestplate>, [
+   [<ore:ingotBronze>,  null,                <ore:ingotBronze>],
+   [<ore:ingotBronze>,  <ore:ingotBronze>,   <ore:ingotBronze>],
+   [<ore:ingotBronze>,  <ore:ingotBronze>,   <ore:ingotBronze>]]);
+   
+recipes.addShaped( <Metallurgy:metallurgy.bronze.boots>, [
+   [null,               null, null],
+   [<ore:ingotBronze>,  null, <ore:ingotBronze>],
+   [<ore:ingotBronze>,  null, <ore:ingotBronze>]]);

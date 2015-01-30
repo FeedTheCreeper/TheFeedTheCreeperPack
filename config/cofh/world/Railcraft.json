@@ -1,0 +1,42 @@
+{
+    "sulfur_lakes": {
+        "template": "normal",
+        "block": "Metallurgy:utility.ore",
+        "material": ["minecraft:stone"],
+        "clusterSize": 4,
+        "numClusters": 2,
+        "meanHeight": 6,
+        "maxVariance":6,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            6,
+            -100
+        ]
+    },
+    
+    "sulfur_mountains": {
+        "template": "fractal",
+        "block": "Metallurgy:utility.ore",
+        "material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 4,
+        "minHeight": 80,
+        "veinHeight": 8,
+        "veinDiameter": 3,
+        "verticalDensity":5,
+        "horizontalDensity":5,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MOUNTAIN"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+         ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "aluminum": {
+        "template": "uniform",
+        "block": {
+            "name": "TConstruct:SearedBrick",
+            "metadata": 5
+        },
+        "clusterSize": 7,
+        "numClusters": 3,
+        "minHeight": 40,
+        "maxHeight": 80,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            6
+        ]
+    },
+    "cobalt": {
+        "template": "uniform",
+        "block": {
+            "name": "TConstruct:SearedBrick",
+            "metadata": 1
+        },
+        "material": [
+            "minecraft:netherrack",
+            "minecraft:stone"
+        ],
+        "clusterSize": 3,
+        "numClusters": 4,
+        "minHeight": 40,
+        "maxHeight": 80,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1,
+            6
+        ]
+    },
+    "ardite": {
+        "template": "uniform",
+        "block": {
+            "name": "TConstruct:SearedBrick",
+            "metadata": 2
+        },
+        "material": [
+            "minecraft:netherrack",
+            "minecraft:stone"
+        ],
+        "clusterSize": 3,
+        "numClusters": 4,
+        "minHeight": 40,
+        "maxHeight": 80,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1,
+            6
+        ]
+    }
+}

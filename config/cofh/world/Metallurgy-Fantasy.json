@@ -1,0 +1,275 @@
+{
+    "prometheum": {
+        "template": "uniform",
+        "block": "Metallurgy:fantasy.ore",
+        "material": "minecraft:stone",
+        "clusterSize": 9,
+        "numClusters": 4,
+        "chunkChance": 3,
+        "minHeight": 20,
+        "maxHeight": 30,
+        "veinHeight": 10,
+        "veinDiameter": 3,
+        "verticalDensity":5,
+        "horizontalDensity":5,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+         ]
+    },
+    "deepiron": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:fantasy.ore",
+            "metadata": 1 },
+        "material": "minecraft:stone",
+        "clusterSize": 11,
+        "numClusters": 6,
+        "chunkChance": 1,
+        "minHeight": 12,
+        "maxHeight": 24,
+        "veinHeight": 12,
+        "veinDiameter": 3,
+        "verticalDensity":4,
+        "horizontalDensity":6,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+         ]
+    },    
+    "infuscolium": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:fantasy.ore",
+            "metadata": 2 },
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 4,
+        "chunkChance": 1,
+        "minHeight": 20,
+        "maxHeight": 32,
+        "veinHeight": 12,
+        "veinDiameter": 3,
+        "verticalDensity":5,
+        "horizontalDensity":5,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+         ]
+    },    
+    "oureclase": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:fantasy.ore",
+            "metadata": 4 },
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 3,
+        "chunkChance": 1,
+        "minHeight": 10,
+        "maxHeight": 36,
+        "veinHeight": 26,
+        "veinDiameter": 3,
+        "verticalDensity":5,
+        "horizontalDensity":5,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+         ]
+    },    
+    "astralsilver": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:fantasy.ore",
+            "metadata": 5 },
+        "material": "minecraft:stone",
+        "clusterSize": 9,
+        "numClusters": 6,
+        "chunkChance": 1,
+        "minHeight": 10,
+        "maxHeight": 16,
+        "veinHeight": 6,
+        "veinDiameter": 6,
+        "verticalDensity":5,
+        "horizontalDensity":5,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+         ]
+    },    
+    "carmot": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:fantasy.ore",
+            "metadata": 6 },
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 3,
+        "chunkChance": 1,
+        "minHeight": 5,
+        "maxHeight": 10,
+        "veinHeight": 5,
+        "veinDiameter": 4,
+        "verticalDensity":5,
+        "horizontalDensity":5,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+         ]
+    },    
+    "mithril": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:fantasy.ore",
+            "metadata": 7 },
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 9,
+        "chunkChance": 1,
+        "minHeight": 17,
+        "maxHeight": 23,
+        "veinHeight": 6,
+        "veinDiameter": 6,
+        "verticalDensity":5,
+        "horizontalDensity":5,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+         ]
+    },    
+    "rubracium": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:fantasy.ore",
+            "metadata": 8 },
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 2,
+        "chunkChance": 1,
+        "minHeight": 28,
+        "maxHeight": 36,
+        "veinHeight": 8,
+        "veinDiameter": 4,
+        "verticalDensity":5,
+        "horizontalDensity":5,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+         ]
+    },    
+    "orichalcum": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:fantasy.ore",
+            "metadata": 11 },
+        "material": "minecraft:stone",
+        "clusterSize": 12,
+        "numClusters": 2,
+        "chunkChance": 1,
+        "minHeight": 10,
+        "maxHeight": 19,
+        "veinHeight": 9,
+        "veinDiameter": 4,
+        "verticalDensity":5,
+        "horizontalDensity":5,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+         ]
+    },    
+    "adamantine": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:fantasy.ore",
+            "metadata": 13 },
+        "material": "minecraft:stone",
+        "clusterSize": 11,
+        "numClusters": 1,
+        "chunkChance": 5,
+        "minHeight": 4,
+        "maxHeight": 10,
+        "veinHeight": 6,
+        "veinDiameter": 4,
+        "verticalDensity":5,
+        "horizontalDensity":5,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+         ]
+    },    
+    "atlarus": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:fantasy.ore",
+            "metadata": 14 },
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 1,
+        "chunkChance": 5,
+        "minHeight": 10,
+        "maxHeight": 16,
+        "veinHeight": 6,
+        "veinDiameter": 4,
+        "verticalDensity":5,
+        "horizontalDensity":5,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+         ]
+    }
+}

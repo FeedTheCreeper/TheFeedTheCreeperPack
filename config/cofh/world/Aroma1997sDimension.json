@@ -1,0 +1,20 @@
+{
+    "stickyOre": {
+        "template": "uniform",
+        "block": {
+            "name": "Aroma1997sDimension:stickyOre",
+            "metadata": 0
+        },
+        "clusterSize": 1,
+        "numClusters": 1,
+        "minHeight": 5,
+        "maxHeight": 25,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            6
+        ]
+    }
+}
