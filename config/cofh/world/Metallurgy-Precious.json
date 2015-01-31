@@ -1,0 +1,53 @@
+{
+    "platinum": {
+        "template": "uniform",
+        "block": [
+            {"name": "Metallurgy:precious.ore", "metadata": 2, "weight": 99},
+            {"name": "redstone_ore", "weight":1}
+        ],
+        "material": "stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 2,
+        "maxHeight": 8,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            -100
+        ]
+    },
+    
+    "platinum_alluvium": {
+        "template": "uniform",
+        "block": [
+            {"name": "Metallurgy:precious.ore", "metadata": 2, "weight": 1},
+            {"name": "clay", "weight":33},
+            {"name": "gravel", "weight":33},
+            {"name": "dirt", "weight":33}
+        ],
+        "material":[
+            "minecraft:dirt",
+            "minecraft:gravel",
+            "minecraft:stone"
+        ],
+        "clusterSize": 6,
+        "numClusters": 1,
+        "chunkChance": 3,
+        "minHeight": 64,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    }
+}

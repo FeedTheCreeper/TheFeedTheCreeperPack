@@ -6,14 +6,13 @@
         "clusterSize": 4,
         "numClusters": 2,
         "meanHeight": 6,
-        "maxVariance":6,
-        "retrogen": "true",
+        "maxVariance":4,
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            6,
             -100
         ]
     },
@@ -29,7 +28,7 @@
         "veinDiameter": 3,
         "verticalDensity":5,
         "horizontalDensity":5,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes":[
             {"type": "dictionary", "entry": "MOUNTAIN"}

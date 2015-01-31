@@ -23,12 +23,20 @@ furnace.addRecipe(<minecraft:dirt:0>, <BiomesOPlenty:mud>);
 <ore:grass>.add(<BiomesOPlenty:newBopGrass:1>);
 <ore:grass>.add(<BiomesOPlenty:newBopGrass:2>);
 
+<ore:gemBiome>.add(<BiomesOPlenty:gems:1>);
+<ore:gemBiome>.add(<BiomesOPlenty:gems:2>);
+<ore:gemBiome>.add(<BiomesOPlenty:gems:3>);
+<ore:gemBiome>.add(<BiomesOPlenty:gems:4>);
+<ore:gemBiome>.add(<BiomesOPlenty:gems:5>);
+<ore:gemBiome>.add(<BiomesOPlenty:gems:6>);
+<ore:gemBiome>.add(<BiomesOPlenty:gems:7>);
 
-
-val Emerald = <minecraft:emerald>;
-val Pink = <minecraft:dye:9>;
-
-recipes.addShaped(<BiomesOPlenty:gems:0>, [
-   [Pink, Pink, Pink], 
-   [Pink, Emerald, Pink], 
-   [Pink, Pink, Pink]]); 
+recipes.addShaped( <BiomesOPlenty:gems>,[
+   [<ore:gemBiome>, <ore:gemBiome>, <ore:gemBiome>],
+   [<ore:gemBiome>, <ore:dyePink>, <ore:gemBiome>],
+   [<ore:gemBiome>, <ore:gemBiome>, <ore:gemBiome>]]);
+   
+recipes.addShaped( <minecraft:emerald>,[
+   [null,            <ore:gemBiome>,   null],
+   [<ore:gemBiome>,  <ore:dyeGreen>,   <ore:gemBiome>],
+   [null,            <ore:gemBiome>,   null]]);

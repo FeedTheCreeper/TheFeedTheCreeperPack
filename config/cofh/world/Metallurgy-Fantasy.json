@@ -12,7 +12,7 @@
         "veinDiameter": 3,
         "verticalDensity":5,
         "horizontalDensity":5,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
@@ -37,7 +37,7 @@
         "veinDiameter": 3,
         "verticalDensity":4,
         "horizontalDensity":6,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
@@ -62,7 +62,7 @@
         "veinDiameter": 3,
         "verticalDensity":5,
         "horizontalDensity":5,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
@@ -87,7 +87,7 @@
         "veinDiameter": 3,
         "verticalDensity":5,
         "horizontalDensity":5,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
@@ -112,7 +112,7 @@
         "veinDiameter": 6,
         "verticalDensity":5,
         "horizontalDensity":5,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
@@ -137,7 +137,7 @@
         "veinDiameter": 4,
         "verticalDensity":5,
         "horizontalDensity":5,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
@@ -162,7 +162,7 @@
         "veinDiameter": 6,
         "verticalDensity":5,
         "horizontalDensity":5,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
@@ -187,7 +187,7 @@
         "veinDiameter": 4,
         "verticalDensity":5,
         "horizontalDensity":5,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
@@ -212,7 +212,7 @@
         "veinDiameter": 4,
         "verticalDensity":5,
         "horizontalDensity":5,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
@@ -237,7 +237,7 @@
         "veinDiameter": 4,
         "verticalDensity":5,
         "horizontalDensity":5,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
@@ -262,7 +262,7 @@
         "veinDiameter": 4,
         "verticalDensity":5,
         "horizontalDensity":5,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}

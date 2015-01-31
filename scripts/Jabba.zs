@@ -2,8 +2,8 @@
 #  JABBA Minetweaker changes
 ###############################################################################
 
-val Iron = <minecraft:iron_ingot>;
-val Stick = <minecraft:stick>;
+val Iron = <ore:ingotIron>;
+val Stick = <ore:stick>;
 val Barrel = <JABBA:barrel>;
 
 recipes.remove(<JABBA:hammer>);

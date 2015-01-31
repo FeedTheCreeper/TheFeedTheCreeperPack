@@ -3,8 +3,8 @@
         "template": "uniform",
         "block": "dirt",
         "material": "minecraft:stone",
-        "clusterSize": 32,
-        "numClusters": 20,
+        "clusterSize": 16,
+        "numClusters": 15,
         "minHeight": 5,
         "maxHeight": 128,
         "retrogen": "false",
@@ -20,10 +20,27 @@
         "template": "uniform",
         "block": "gravel",
         "material": "stone",
-        "clusterSize": 32,
+        "clusterSize": 24,
         "numClusters": 10,
         "minHeight": 5,
         "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "clay": {
+        "template": "uniform",
+        "block": "clay",
+        "material": "stone",
+        "clusterSize": 12,
+        "numClusters": 10,
+        "minHeight": 5,
+        "maxHeight": 64,
         "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
@@ -38,11 +55,11 @@
         "block": [
             {
                 "name": "coal_ore",
-                "weight": 95
+                "weight": 98
             },
             {
                 "name": "Metallurgy:utility.ore",
-                "weight": 5
+                "weight": 2
             }
         ],
         "material": "stone",
@@ -50,7 +67,7 @@
         "numClusters": 29,
         "minHeight": 24,
         "maxHeight": 105,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
@@ -67,7 +84,7 @@
         "numClusters": 42,
         "minHeight": 15,
         "maxHeight": 80,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
@@ -84,7 +101,7 @@
         "numClusters": 2,
         "minHeight": 8,
         "maxHeight": 24,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
@@ -101,7 +118,7 @@
         "numClusters": 8,
         "minHeight": 5,
         "maxHeight": 18,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
@@ -118,7 +135,7 @@
         "numClusters": 3,
         "minHeight": 7,
         "maxHeight": 15,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
@@ -135,7 +152,7 @@
         "numClusters": 2,
         "meanHeight": 30,
         "maxVariance": 10,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
@@ -152,7 +169,7 @@
         "numClusters": 32,
         "minHeight": 5,
         "maxHeight": 122,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes": [
             {"type": "dictionary", "entry": "NETHER"}

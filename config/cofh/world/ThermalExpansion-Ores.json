@@ -5,11 +5,12 @@
             {"name": "Metallurgy:precious.ore", "metadata": 1, "weight":80},
             {"name": "ThermalFoundation:Ore", "metadata": 3, "weight":20}
         ],
+        "material": "stone",
         "clusterSize": 10,
         "numClusters": 4,
         "minHeight": 8,
         "maxHeight": 32,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -26,11 +27,12 @@
             {"name": "ThermalFoundation:Ore", "metadata": 3, "weight": 90},
             {"name": "Metallurgy:precious.ore", "metadata": 1, "weight":80}
         ],
+        "material": "stone",
         "clusterSize": 9,
         "numClusters": 6,
         "minHeight": 40,
         "maxHeight": 70,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -44,6 +46,7 @@
     "nickel": {
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 4},
+        "material": "stone",
         "clusterSize": 6,
         "numClusters": 3,
         "minHeight": 8,
@@ -53,10 +56,52 @@
         "biomes": [
             "all"
         ],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-            -1,
-            1
+            0,
+            -100
+        ]
+    },
+   "manaInfused": {
+        "template": "uniform",
+        "block": {
+            "name": "ThermalFoundation:Ore",
+            "metadata": 6
+        },
+        "material": "stone",
+        "clusterSize": 4,
+        "numClusters": 2,
+        "minHeight": 5,
+        "maxHeight": 30,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "manaInfused_deepDark": {
+        "template": "uniform",
+        "block": {
+            "name": "ThermalFoundation:Ore",
+            "metadata": 6
+        },
+        "material": "stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 5,
+        "maxHeight": 30,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes":[
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
         ]
     }
 }

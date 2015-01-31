@@ -1,10 +1,8 @@
 {
-    "blockMarble": {
+    "marble": {
         "template": "uniform",
-        "block": {
-            "name": "chisel:chisel.marble",
-            "metadata": 0
-        },
+        "block": "chisel:marble",
+        "material": "stone",
         "clusterSize": 9,
         "numClusters": 2,
         "minHeight": 40,
@@ -15,15 +13,13 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            6
+            -100
         ]
     },
-    "blockLimestone": {
+    "limestone": {
         "template": "uniform",
-        "block": {
-            "name": "chisel:chisel.limestone",
-            "metadata": 0
-        },
+        "block": "chisel:limestone",
+        "material": "stone",
         "clusterSize": 9,
         "numClusters": 2,
         "minHeight": 40,
@@ -34,7 +30,7 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            6
+            -100
         ]
     }
 }

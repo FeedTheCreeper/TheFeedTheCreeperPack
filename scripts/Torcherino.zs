@@ -1,7 +1,4 @@
 var Clock = <minecraft:clock>;
-
-var Clock = <minecraft:clock>;
-
 val Star = <minecraft:nether_star>;
 val torch = <minecraft:torch>;
 val soul = <ExtraUtilities:mini-soul>;
