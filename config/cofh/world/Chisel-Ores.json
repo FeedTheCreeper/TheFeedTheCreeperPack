@@ -1,13 +1,13 @@
 {
-    "marble": {
+    "andesite": {
         "template": "uniform",
-        "block": "chisel:marble",
+        "block": "chisel:andesite",
         "material": "stone",
-        "clusterSize": 9,
+        "clusterSize": 8,
         "numClusters": 2,
         "minHeight": 40,
         "maxHeight": 90,
-        "retrogen": "false",
+        "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "whitelist",
@@ -16,15 +16,15 @@
             -100
         ]
     },
-    "limestone": {
+    "diorite": {
         "template": "uniform",
-        "block": "chisel:limestone",
+        "block": "chisel:diorite",
         "material": "stone",
-        "clusterSize": 9,
+        "clusterSize": 8,
         "numClusters": 2,
         "minHeight": 40,
         "maxHeight": 90,
-        "retrogen": "false",
+        "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "whitelist",
