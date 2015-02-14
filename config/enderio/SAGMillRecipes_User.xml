@@ -68,6 +68,18 @@ found in the core file.
     </excludes>
   </grindingBalls>
 
+  <recipeGroup name="Mekansim">
+  
+    <recipe name="Diamond" energyCost="400">
+      <input>
+        <itemStack itemID="264" />
+      </input>      
+      <output>
+        <itemStack modID="Mekanism" itemName="Dust" itemMeta="4" number="1" />
+      </output>
+    </recipe>
+    
+</recipeGroup> 
 
 <!-- Disables all recipes in the group 'Vanilla'
 <recipeGroup name="Vanilla" enabled="false"/> 

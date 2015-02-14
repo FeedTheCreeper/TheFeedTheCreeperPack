@@ -1,3 +1,23 @@
 # Use this file to tell Mekanism which blocks should not be picked up by a cardboard box.
 # Proper syntax is "NAME:META". Example (for stone):
 # stone:0
+modularsystems:blockArmorStorageExpansion:0
+modularsystems:blockBasicExpansion:0
+modularsystems:blockCraftingStorageExpansion:0
+modularsystems:blockEnchantmentAlter:0
+modularsystems:blockFurnaceAddition:0
+modularsystems:blockFurnaceCore:0
+modularsystems:blockFurnaceCoreActive:0
+modularsystems:blockFurnaceCraftingUpgrade:0
+modularsystems:blockHoppingStorageExpansion:0
+modularsystems:blockSmashingStorageExpansion:0
+modularsystems:blockSortingStorageExpansion:0
+modularsystems:blockStorageCore:0
+modularsystems:blockStorageExpansion:0
+modularsystems:fluidTank:0
+modularsystems:furnaceOverlay:0
+modularsystems:modularDummy:0
+modularsystems:modularDummyIO:0
+modularsystems:smelteryCore:0
+modularsystems:smelteryCoreActive:0
+modularsystems:smelteryOverlay:0
