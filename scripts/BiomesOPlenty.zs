@@ -12,6 +12,15 @@ furnace.addRecipe(<minecraft:dirt:0>, <BiomesOPlenty:mud>);
 
 // The :* method used in the highlands.zs didn't work here, for some reason. . .
 
+<ore:plantGrass>.add(<minecraft:grass>);
+<ore:plantGrass>.add(<BiomesOPlenty:plants:0>);
+<ore:plantGrass>.add(<BiomesOPlenty:plants:1>);
+<ore:plantGrass>.add(<BiomesOPlenty:plants:3>);
+<ore:plantGrass>.add(<BiomesOPlenty:foliage:1>);
+<ore:plantGrass>.add(<BiomesOPlenty:foliage:2>);
+<ore:plantGrass>.add(<BiomesOPlenty:foliage:10>);
+<ore:plantGrass>.add(<BiomesOPlenty:foliage:11>);
+
 <ore:dirt>.add(<BiomesOPlenty:newBopDirt:0>);
 <ore:dirt>.add(<BiomesOPlenty:newBopDirt:1>);
 <ore:dirt>.add(<BiomesOPlenty:newBopDirt:2>);
