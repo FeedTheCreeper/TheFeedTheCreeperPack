@@ -1,0 +1,35 @@
+{
+   "gravel": {
+        "template": "uniform",
+        "block": "gravel",
+        "material": "netherrack",
+        "clusterSize": 16,
+        "numClusters": 10,
+        "minHeight": 5,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+        
+    "quartz": {
+        "template": "uniform",
+        "block": "quartz_ore",
+        "material": "netherrack",
+        "clusterSize": 13,
+        "numClusters": 32,
+        "minHeight": 5,
+        "maxHeight": 122,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    }
+}

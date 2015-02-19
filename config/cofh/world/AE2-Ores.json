@@ -36,7 +36,7 @@
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
         "clusterSize": 8,
-        "numClusters": 6,
+        "numClusters": 4,
         "minHeight": 36,
         "maxHeight": 54,
         "retrogen": "false",

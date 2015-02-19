@@ -27,10 +27,10 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
-        "clusterSize": 10,
-        "numClusters": 4,
-        "minHeight": 8,
-        "maxHeight": 32,
+        "clusterSize": 9,
+        "numClusters": 5,
+        "meanHeight": 24,
+        "maxVariance": 6,
         "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
@@ -70,10 +70,10 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
-        "clusterSize": 9,
-        "numClusters": 6,
-        "minHeight": 40,
-        "maxHeight": 70,
+        "clusterSize": 10,
+        "numClusters": 5,
+        "meanHeight": 28,
+        "maxVariance": 6,
         "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
@@ -87,7 +87,10 @@
     },
     "nickel": {
         "template": "uniform",
-        "block": {"name": "ThermalFoundation:Ore", "metadata": 4},
+        "block":[
+            {"name": "ThermalFoundation:Ore", "metadata": 100},
+            {"name": "Mekanism:OreBlock", "metadata": 0, "weight": 1}
+            ]
         "material": [
          {"name": "stone"},
          {"name": "dirt"},
@@ -112,8 +115,8 @@
         ],
         "clusterSize": 6,
         "numClusters": 3,
-        "minHeight": 8,
-        "maxHeight": 27,
+        "minHeight": 6,
+        "maxHeight": 16,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [

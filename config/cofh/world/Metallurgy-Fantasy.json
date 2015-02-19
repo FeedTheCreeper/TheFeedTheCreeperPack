@@ -24,7 +24,7 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
-        "clusterSize": 9,
+        "clusterSize": 8,
         "numClusters": 4,
         "chunkChance": 3,
         "minHeight": 20,
@@ -70,7 +70,7 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
-        "clusterSize": 11,
+        "clusterSize": 9,
         "numClusters": 6,
         "chunkChance": 1,
         "minHeight": 12,
@@ -116,7 +116,7 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
-        "clusterSize": 6,
+        "clusterSize": 5,
         "numClusters": 4,
         "chunkChance": 1,
         "minHeight": 20,
@@ -162,7 +162,7 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
-        "clusterSize": 6,
+        "clusterSize": 5,
         "numClusters": 3,
         "chunkChance": 1,
         "minHeight": 10,
@@ -208,7 +208,7 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
-        "clusterSize": 9,
+        "clusterSize": 7,
         "numClusters": 6,
         "chunkChance": 1,
         "minHeight": 10,
@@ -254,7 +254,7 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
-        "clusterSize": 6,
+        "clusterSize": 5,
         "numClusters": 3,
         "chunkChance": 1,
         "minHeight": 5,
@@ -300,7 +300,7 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
-        "clusterSize": 8,
+        "clusterSize": 6,
         "numClusters": 9,
         "chunkChance": 1,
         "minHeight": 17,
@@ -346,7 +346,7 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
-        "clusterSize": 6,
+        "clusterSize": 5,
         "numClusters": 2,
         "chunkChance": 1,
         "minHeight": 28,
@@ -392,7 +392,7 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
-        "clusterSize": 12,
+        "clusterSize": 10,
         "numClusters": 2,
         "chunkChance": 1,
         "minHeight": 10,
@@ -438,7 +438,7 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
-        "clusterSize": 11,
+        "clusterSize": 9,
         "numClusters": 1,
         "chunkChance": 5,
         "minHeight": 4,
@@ -484,7 +484,7 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
-        "clusterSize": 4,
+        "clusterSize": 3,
         "numClusters": 1,
         "chunkChance": 5,
         "minHeight": 10,
