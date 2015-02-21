@@ -21,12 +21,12 @@ furnace.addRecipe(<minecraft:dirt:0>, <BiomesOPlenty:mud>);
 <ore:plantGrass>.add(<BiomesOPlenty:foliage:10>);
 <ore:plantGrass>.add(<BiomesOPlenty:foliage:11>);
 
-<ore:dirt>.add(<BiomesOPlenty:newBopDirt:0>);
-<ore:dirt>.add(<BiomesOPlenty:newBopDirt:1>);
-<ore:dirt>.add(<BiomesOPlenty:newBopDirt:2>);
-<ore:dirt>.add(<BiomesOPlenty:newBopDirt:3>);
-<ore:dirt>.add(<BiomesOPlenty:newBopDirt:4>);
-<ore:dirt>.add(<BiomesOPlenty:newBopDirt:5>);
+<ore:blockDirt>.add(<BiomesOPlenty:newBopDirt:0>);
+<ore:blockDirt>.add(<BiomesOPlenty:newBopDirt:1>);
+<ore:blockDirt>.add(<BiomesOPlenty:newBopDirt:2>);
+<ore:blockDirt>.add(<BiomesOPlenty:newBopDirt:3>);
+<ore:blockDirt>.add(<BiomesOPlenty:newBopDirt:4>);
+<ore:blockDirt>.add(<BiomesOPlenty:newBopDirt:5>);
 
 <ore:grass>.add(<BiomesOPlenty:newBopGrass:0>);
 <ore:grass>.add(<BiomesOPlenty:newBopGrass:1>);
