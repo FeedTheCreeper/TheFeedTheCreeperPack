@@ -1,0 +1,46 @@
+{
+    "andesite": {
+        "template": "uniform",
+        "block": "chisel:andesite",
+        "material": [
+         {"name": "stone"},
+         {"name": "dirt"},
+         {"name": "gravel"},
+         {"name": "sandstone"}
+        ],
+        "clusterSize": 8,
+        "numClusters": 2,
+        "minHeight": 40,
+        "maxHeight": 90,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            -100
+        ]
+    },
+    "diorite": {
+        "template": "uniform",
+        "block": "chisel:diorite",
+        "material": [
+         {"name": "stone"},
+         {"name": "dirt"},
+         {"name": "gravel"},
+         {"name": "sandstone"}
+        ],
+        "clusterSize": 8,
+        "numClusters": 2,
+        "minHeight": 40,
+        "maxHeight": 90,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            -100
+        ]
+    }
+}

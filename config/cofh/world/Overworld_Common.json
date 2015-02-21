@@ -1,5 +1,5 @@
 {
-   "dirt": {
+   "overworld_dirt": {
         "template": "uniform",
         "block": "dirt",
         "material": "minecraft:stone",
@@ -15,7 +15,7 @@
             0
         ]
     },
-    "gravel": {
+    "overworld_gravel": {
         "template": "uniform",
         "block": "gravel",
         "material": "stone",
@@ -31,7 +31,7 @@
             0
         ]
     },
-    "clay": {
+    "overworld_clay": {
         "template": "uniform",
         "block": "clay",
         "material": "stone",
@@ -47,16 +47,16 @@
             0
         ]
     },
-    "coal": {
+    "overworld_coal": {
         "template": "uniform",
         "block": [
             {
                 "name": "coal_ore",
-                "weight": 98
+                "weight": 100
             },
             {
                 "name": "Metallurgy:utility.ore",
-                "weight": 2
+                "weight": 1
             }
         ],
         "material": [
@@ -93,7 +93,7 @@
             0
         ]
     },
-    "iron": {
+    "overworld_iron": {
         "template": "normal",
         "block": "iron_ore",
         "material": [
@@ -130,7 +130,7 @@
             0
         ]
     },
-    "gold": {
+    "overworld_gold": {
         "template": "normal",
         "block": "gold_ore",
         "material": [
@@ -167,7 +167,7 @@
             0
         ]
     },
-    "redstone": {
+    "overworld_redstone": {
         "template": "normal",
         "block": "redstone_ore",
         "material": [
@@ -204,7 +204,7 @@
             0
         ]
     },
-    "diamond": {
+    "overworld_diamond": {
         "template": "uniform",
         "block": "diamond_ore",
         "material": [
@@ -241,7 +241,7 @@
             0
         ]
     },
-    "lapis": {
+    "overworld_lapis": {
         "template": "normal",
         "block": "lapis_ore",
         "material": [
@@ -278,7 +278,47 @@
             0
         ]
     },
-    "copper": {
+    "overworld_emerald": {
+        "template": "uniform",
+        "block": "emerald_ore",
+        "material": [
+         {"name": "stone"},
+         {"name": "dirt"},
+         {"name": "gravel"},
+         {"name": "sandstone"},
+         {"name": "GeoStrata:geostrata_rock_basalt_smooth"},
+         {"name": "GeoStrata:geostrata_rock_gneiss_smooth"},
+         {"name": "GeoStrata:geostrata_rock_granite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_granulite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_hornfel_smooth"},
+         {"name": "GeoStrata:geostrata_rock_limestone_smooth"},
+         {"name": "GeoStrata:geostrata_rock_marble_smooth"},
+         {"name": "GeoStrata:geostrata_rock_migmatite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_onyx_smooth"},
+         {"name": "GeoStrata:geostrata_rock_opal_smooth"},
+         {"name": "GeoStrata:geostrata_rock_peridotite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_pumice_smooth"},
+         {"name": "GeoStrata:geostrata_rock_quartz_smooth"},
+         {"name": "GeoStrata:geostrata_rock_sandstone_smooth"},
+         {"name": "GeoStrata:geostrata_rock_shale_smooth"},
+         {"name": "GeoStrata:geostrata_rock_slate_smooth"}
+        ],
+        "clusterSize": 5,
+        "numClusters": 2,
+        "chunkChance": 4,
+        "minHeight": 2,
+        "maxHeight": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MOUNTAIN"}
+        ],
+       "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "overworld_copper": {
         "template": "normal",
         "block": [
             {"name": "Metallurgy:base.ore", "metadata": 0, "weight":200},
@@ -310,7 +350,7 @@
         "clusterSize": 11,
         "numClusters": 6,
         "meanHeight": 58,
-        "maxVariance": 7
+        "maxVariance": 7,
         "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
@@ -321,7 +361,7 @@
             0
         ]
     },
-    "tin": {
+    "overworld_tin": {
         "template": "normal",
         "block": [
             {"name": "Metallurgy:base.ore", "metadata": 1, "weight":200},
@@ -368,7 +408,85 @@
             0
         ]
     },
-    "nickel": {
+    "overworld_silver": {
+        "template": "uniform",
+        "block": [
+            {"name": "Metallurgy:precious.ore", "metadata": 1, "weight":80},
+            {"name": "ThermalFoundation:Ore", "metadata": 3, "weight":20}
+        ],
+        "material": [
+         {"name": "stone"},
+         {"name": "dirt"},
+         {"name": "gravel"},
+         {"name": "sandstone"},
+         {"name": "GeoStrata:geostrata_rock_basalt_smooth"},
+         {"name": "GeoStrata:geostrata_rock_gneiss_smooth"},
+         {"name": "GeoStrata:geostrata_rock_granite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_granulite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_hornfel_smooth"},
+         {"name": "GeoStrata:geostrata_rock_limestone_smooth"},
+         {"name": "GeoStrata:geostrata_rock_marble_smooth"},
+         {"name": "GeoStrata:geostrata_rock_migmatite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_onyx_smooth"},
+         {"name": "GeoStrata:geostrata_rock_opal_smooth"},
+         {"name": "GeoStrata:geostrata_rock_peridotite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_pumice_smooth"},
+         {"name": "GeoStrata:geostrata_rock_quartz_smooth"},
+         {"name": "GeoStrata:geostrata_rock_sandstone_smooth"},
+         {"name": "GeoStrata:geostrata_rock_shale_smooth"},
+         {"name": "GeoStrata:geostrata_rock_slate_smooth"}
+        ],
+        "clusterSize": 9,
+        "numClusters": 5,
+        "meanHeight": 24,
+        "maxVariance": 6,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": []
+    },
+    "overworld_lead": {
+        "template": "uniform",
+        "block": [
+            {"name": "ThermalFoundation:Ore", "metadata": 3, "weight": 90},
+            {"name": "Metallurgy:precious.ore", "metadata": 1, "weight":80}
+        ],
+        "material": [
+         {"name": "stone"},
+         {"name": "dirt"},
+         {"name": "gravel"},
+         {"name": "sandstone"},
+         {"name": "GeoStrata:geostrata_rock_basalt_smooth"},
+         {"name": "GeoStrata:geostrata_rock_gneiss_smooth"},
+         {"name": "GeoStrata:geostrata_rock_granite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_granulite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_hornfel_smooth"},
+         {"name": "GeoStrata:geostrata_rock_limestone_smooth"},
+         {"name": "GeoStrata:geostrata_rock_marble_smooth"},
+         {"name": "GeoStrata:geostrata_rock_migmatite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_onyx_smooth"},
+         {"name": "GeoStrata:geostrata_rock_opal_smooth"},
+         {"name": "GeoStrata:geostrata_rock_peridotite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_pumice_smooth"},
+         {"name": "GeoStrata:geostrata_rock_quartz_smooth"},
+         {"name": "GeoStrata:geostrata_rock_sandstone_smooth"},
+         {"name": "GeoStrata:geostrata_rock_shale_smooth"},
+         {"name": "GeoStrata:geostrata_rock_slate_smooth"}
+        ],
+        "clusterSize": 10,
+        "numClusters": 5,
+        "meanHeight": 28,
+        "maxVariance": 6,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    }
+    "overworld_nickel": {
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 4},
         "material": [
@@ -408,52 +526,13 @@
             0
         ]
     },
-   "manaInfused": {
+    "overworld_osmium": {
         "template": "uniform",
-        "block": {
-            "name": "ThermalFoundation:Ore",
-            "metadata": 6
-        },
-        "material": [
-         {"name": "stone"},
-         {"name": "dirt"},
-         {"name": "gravel"},
-         {"name": "sandstone"},
-         {"name": "GeoStrata:geostrata_rock_basalt_smooth"},
-         {"name": "GeoStrata:geostrata_rock_gneiss_smooth"},
-         {"name": "GeoStrata:geostrata_rock_granite_smooth"},
-         {"name": "GeoStrata:geostrata_rock_granulite_smooth"},
-         {"name": "GeoStrata:geostrata_rock_hornfel_smooth"},
-         {"name": "GeoStrata:geostrata_rock_limestone_smooth"},
-         {"name": "GeoStrata:geostrata_rock_marble_smooth"},
-         {"name": "GeoStrata:geostrata_rock_migmatite_smooth"},
-         {"name": "GeoStrata:geostrata_rock_onyx_smooth"},
-         {"name": "GeoStrata:geostrata_rock_opal_smooth"},
-         {"name": "GeoStrata:geostrata_rock_peridotite_smooth"},
-         {"name": "GeoStrata:geostrata_rock_pumice_smooth"},
-         {"name": "GeoStrata:geostrata_rock_quartz_smooth"},
-         {"name": "GeoStrata:geostrata_rock_sandstone_smooth"},
-         {"name": "GeoStrata:geostrata_rock_shale_smooth"},
-         {"name": "GeoStrata:geostrata_rock_slate_smooth"}
-        ],
-        "clusterSize": 4,
-        "numClusters": 2,
-        "minHeight": 5,
-        "maxHeight": 30,
-        "retrogen": "false",
-        "biomeRestriction": "whitelist",
-        "biomes":[
-            {"type": "dictionary", "entry": "MAGICAL"}
-        ],
-        "dimensionRestriction": "whitelist",
-        "dimensions": [
-            0
+        "block":[
+            {"name": "Mekanism:OreBlock", "metadata": 0, "weight": 100},
+            {"name": "ThermalFoundation:Ore", "metadata": 1},
+            {"name": "Metallurgy:base.ore", "metadata 0, "weight":1}
         ]
-    }
-    
-    "manganese": {
-        "template": "normal",
-        "block": {"name": "Metallurgy:base.ore", "metadata": 2},
         "material": [
          {"name": "stone"},
          {"name": "dirt"},
@@ -476,31 +555,27 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
-        "clusterSize": 9,
+        "clusterSize": 8,
         "numClusters": 7,
-        "chunkChance": 5,
-        "meanHeight": 30,
-        "maxVariance": 12
-        "retrogen": "true",
+        "meanHeight": 16,
+        "maxVariance": 14,
+        "retrogen": "false",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0
         ]
     },
-   
-    "metallic_alluvium": {
+    "overworld_metallic_alluvium": {
         "template": "uniform",
         "block": [
             {"name": "iron_ore", "weight":200},
-            {"name": "Metallurgy:base.ore", "metadata" 0, "weight":150},
+            {"name": "Metallurgy:base.ore", "metadata": 0, "weight":150},
             {"name": "Metallurgy:base.ore", "metadata": 1, "weight":100},
             {"name": "clay", "weight":20},
             {"name": "gravel", "weight":20},
-            {"name": "dirt", "weight":20},
+            {"name": "dirt", "weight":20}
         ],
         "material": [
          {"name": "stone"},
@@ -530,12 +605,10 @@
         "maxHeight": 192,
         "retrogen": "false",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
            0
         ]
-    },
+    }
 }

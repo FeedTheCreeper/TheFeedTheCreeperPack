@@ -1,5 +1,5 @@
 {
-   "gravel": {
+   "nether_gravel": {
         "template": "uniform",
         "block": "gravel",
         "material": "netherrack",
@@ -15,7 +15,7 @@
             -1
         ]
         
-    "quartz": {
+    "nether_netherQuartz": {
         "template": "uniform",
         "block": "quartz_ore",
         "material": "netherrack",
