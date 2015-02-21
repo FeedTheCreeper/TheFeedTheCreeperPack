@@ -485,7 +485,7 @@
         "dimensions": [
             0
         ]
-    }
+    },
     "overworld_nickel": {
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 4},
@@ -531,8 +531,8 @@
         "block":[
             {"name": "Mekanism:OreBlock", "metadata": 0, "weight": 100},
             {"name": "ThermalFoundation:Ore", "metadata": 1},
-            {"name": "Metallurgy:base.ore", "metadata 0, "weight":1}
-        ]
+            {"name": "Metallurgy:base.ore", "metadata": 0, "weight":1}
+        ],
         "material": [
          {"name": "stone"},
          {"name": "dirt"},

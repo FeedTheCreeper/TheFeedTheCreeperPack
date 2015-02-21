@@ -23,6 +23,7 @@
          {"name": "GeoStrata:geostrata_rock_sandstone_smooth"},
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
+        ],
         "clusterSize": 4,
         "numClusters": 11,
         "minHeight": 44,
@@ -99,6 +100,7 @@
          {"name": "GeoStrata:geostrata_rock_sandstone_smooth"},
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
+        ],
         "clusterSize": 4,
         "numClusters": 2,
         "meanHeight": 6,
@@ -135,6 +137,7 @@
          {"name": "GeoStrata:geostrata_rock_sandstone_smooth"},
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
+        ],
         "clusterSize": 3,
         "numClusters": 1,
         "chunkChance": 2,

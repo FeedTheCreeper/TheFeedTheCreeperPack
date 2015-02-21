@@ -14,8 +14,8 @@
         "dimensions": [
             -1
         ]
-        
-    "nether_netherQuartz": {
+   },
+   "nether_netherQuartz": {
         "template": "uniform",
         "block": "quartz_ore",
         "material": "netherrack",
