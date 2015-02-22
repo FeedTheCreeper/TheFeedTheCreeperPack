@@ -41,7 +41,7 @@
             0
         ]
     },
-    "prometheum": {
+    "overworld_prometheum": {
         "template": "uniform",
         "block": "Metallurgy:fantasy.ore",
          "material": [
@@ -81,7 +81,7 @@
             0
          ]
     },
-    "deepiron": {
+    "overworld_deepiron": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -127,7 +127,7 @@
             0
          ]
     },    
-    "infuscolium": {
+    "overworld_infuscolium": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -173,7 +173,7 @@
             0
          ]
     },    
-    "oureclase": {
+    "overworld_oureclase": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -219,7 +219,7 @@
             0
          ]
     },    
-    "astralsilver": {
+    "overworld_astralsilver": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -265,7 +265,7 @@
             0
          ]
     },    
-    "carmot": {
+    "overworld_carmot": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -311,7 +311,7 @@
             0
          ]
     },    
-    "mithril": {
+    "overworld_mithril": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -357,7 +357,7 @@
             0
          ]
     },    
-    "rubracium": {
+    "overworld_rubracium": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -403,7 +403,7 @@
             0
          ]
     },    
-    "orichalcum": {
+    "overworld_orichalcum": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -449,7 +449,7 @@
             0
          ]
     },    
-    "adamantine": {
+    "overworld_adamantine": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -495,7 +495,7 @@
             0
          ]
     },    
-    "atlarus": {
+    "overworld_atlarus": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",

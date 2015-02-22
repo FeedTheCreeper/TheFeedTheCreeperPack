@@ -1,5 +1,5 @@
 {
-   "manaInfused": {
+   "deepDark_manaInfused": {
         "template": "uniform",
         "block": {
             "name": "ThermalFoundation:Ore",
@@ -43,7 +43,7 @@
         ]
     },
     
-    "prometheum": {
+    "deepDark_prometheum": {
         "template": "uniform",
         "block": "Metallurgy:fantasy.ore",
          "material": [
@@ -82,7 +82,7 @@
             -100
          ]
     },
-    "deepiron": {
+    "deepDark_deepiron": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -123,7 +123,7 @@
             -100
          ]
     },    
-    "infuscolium": {
+    "deepDark_infuscolium": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -164,7 +164,7 @@
             -100
          ]
     },    
-    "oureclase": {
+    "deepDark_oureclase": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -205,7 +205,7 @@
             -100
          ]
     },    
-    "astralsilver": {
+    "deepDark_astralsilver": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -246,7 +246,7 @@
             -100
          ]
     },    
-    "carmot": {
+    "deepDark_carmot": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore", "metadata": 6 },
@@ -287,7 +287,7 @@
             -100
          ]
     },    
-    "mithril": {
+    "deepDark_mithril": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore", "metadata": 7 },
@@ -327,7 +327,7 @@
             -100
          ]
     },    
-    "rubracium": {
+    "deepDark_rubracium": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore", "metadata": 8 },
@@ -367,7 +367,7 @@
             -100
          ]
     },    
-    "orichalcum": {
+    "deepDark_orichalcum": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -409,7 +409,7 @@
             -100
          ]
     },    
-    "adamantine": {
+    "deepDark_adamantine": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore", "metadata": 13 },
@@ -449,7 +449,7 @@
             -100
          ]
     },    
-    "atlarus": {
+    "deepDark_atlarus": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore", "metadata": 14 },
@@ -489,7 +489,7 @@
             -100
          ]
     },
-    "ceilingBedrock": {
+    "deepDark_ceilingBedrock": {
         "template": "uniform",
         "block": "bedrock",
         "material": "stone",
@@ -508,7 +508,7 @@
             -100
          ]
     },    
-    "silverfish": {
+    "deepDark_silverfish": {
         "template": "uniform",
         "block": "monster_egg",
         "material": "stone",

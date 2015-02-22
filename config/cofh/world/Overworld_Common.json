@@ -409,7 +409,7 @@
         ]
     },
     "overworld_silver": {
-        "template": "uniform",
+        "template": "normal",
         "block": [
             {"name": "Metallurgy:precious.ore", "metadata": 1, "weight":80},
             {"name": "ThermalFoundation:Ore", "metadata": 3, "weight":20}
@@ -444,10 +444,12 @@
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "whitelist",
-        "dimensions": []
+        "dimensions": [
+            0
+        ]
     },
     "overworld_lead": {
-        "template": "uniform",
+        "template": "normal",
         "block": [
             {"name": "ThermalFoundation:Ore", "metadata": 3, "weight": 90},
             {"name": "Metallurgy:precious.ore", "metadata": 1, "weight":80}
@@ -527,7 +529,7 @@
         ]
     },
     "overworld_osmium": {
-        "template": "uniform",
+        "template": "normal",
         "block":[
             {"name": "Mekanism:OreBlock", "metadata": 0, "weight": 100},
             {"name": "ThermalFoundation:Ore", "metadata": 1},

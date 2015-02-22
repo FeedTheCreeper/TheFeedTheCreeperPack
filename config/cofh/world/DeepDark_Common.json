@@ -87,6 +87,86 @@
             -100
         ]
     },
+    "deepDark_silver": {
+        "template": "normal",
+        "block": [
+            {"name": "Metallurgy:precious.ore", "metadata": 1, "weight":80},
+            {"name": "ThermalFoundation:Ore", "metadata": 3, "weight":20}
+        ],
+        "material": [
+         {"name": "stone"},
+         {"name": "dirt"},
+         {"name": "gravel"},
+         {"name": "sandstone"},
+         {"name": "GeoStrata:geostrata_rock_basalt_smooth"},
+         {"name": "GeoStrata:geostrata_rock_gneiss_smooth"},
+         {"name": "GeoStrata:geostrata_rock_granite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_granulite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_hornfel_smooth"},
+         {"name": "GeoStrata:geostrata_rock_limestone_smooth"},
+         {"name": "GeoStrata:geostrata_rock_marble_smooth"},
+         {"name": "GeoStrata:geostrata_rock_migmatite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_onyx_smooth"},
+         {"name": "GeoStrata:geostrata_rock_opal_smooth"},
+         {"name": "GeoStrata:geostrata_rock_peridotite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_pumice_smooth"},
+         {"name": "GeoStrata:geostrata_rock_quartz_smooth"},
+         {"name": "GeoStrata:geostrata_rock_sandstone_smooth"},
+         {"name": "GeoStrata:geostrata_rock_shale_smooth"},
+         {"name": "GeoStrata:geostrata_rock_slate_smooth"}
+        ],
+        "clusterSize": 12,
+        "numClusters": 7,
+        "meanHeight": 21,
+        "maxVariance": 8,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "deepDark_lead": {
+        "template": "normal",
+        "block": [
+            {"name": "ThermalFoundation:Ore", "metadata": 3, "weight": 90},
+            {"name": "Metallurgy:precious.ore", "metadata": 1, "weight":80}
+        ],
+        "material": [
+         {"name": "stone"},
+         {"name": "dirt"},
+         {"name": "gravel"},
+         {"name": "sandstone"},
+         {"name": "GeoStrata:geostrata_rock_basalt_smooth"},
+         {"name": "GeoStrata:geostrata_rock_gneiss_smooth"},
+         {"name": "GeoStrata:geostrata_rock_granite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_granulite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_hornfel_smooth"},
+         {"name": "GeoStrata:geostrata_rock_limestone_smooth"},
+         {"name": "GeoStrata:geostrata_rock_marble_smooth"},
+         {"name": "GeoStrata:geostrata_rock_migmatite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_onyx_smooth"},
+         {"name": "GeoStrata:geostrata_rock_opal_smooth"},
+         {"name": "GeoStrata:geostrata_rock_peridotite_smooth"},
+         {"name": "GeoStrata:geostrata_rock_pumice_smooth"},
+         {"name": "GeoStrata:geostrata_rock_quartz_smooth"},
+         {"name": "GeoStrata:geostrata_rock_sandstone_smooth"},
+         {"name": "GeoStrata:geostrata_rock_shale_smooth"},
+         {"name": "GeoStrata:geostrata_rock_slate_smooth"}
+        ],
+        "clusterSize": 13,
+        "numClusters": 7,
+        "meanHeight": 36,
+        "maxVariance": 8,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
     "deepDark_nickel": {
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 4},
@@ -126,7 +206,7 @@
         ]
     },
     "deepDark_osmium": {
-        "template": "uniform",
+        "template": "normal",
         "block":[
             {"name": "Mekanism:OreBlock", "metadata": 0, "weight": 100},
             {"name": "ThermalFoundation:Ore", "metadata": 1},
