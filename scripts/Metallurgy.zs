@@ -46,3 +46,43 @@ recipes.addShaped( <Metallurgy:metallurgy.bronze.boots>, [
    [null,               null, null],
    [<ore:ingotBronze>,  null, <ore:ingotBronze>],
    [<ore:ingotBronze>,  null, <ore:ingotBronze>]]);
+   
+recipes.addShaped(<minecraft:torch>*5,
+   [[<ore:dustPhosphorus>],
+    [<ore:stickWood>]]);
+    
+ recipes.addShaped(<minecraft:torch>*5,
+   [[<ore:dustBitumen>],
+    [<ore:stickWood>]]);
+    
+recipes.addShaped(<minecraft:torch>*6,
+   [[<Metallurgy:tar>],
+    [<ore:stickWood>]]);
+    
+recipes.addShaped(<minecraft:torch>*5,
+   [[<ore:dustSulfur>],
+    [<ore:stickWood>]]);
+    
+recipes.addShaped(<TConstruct:decoration.stonetorch>*5,
+   [[<ore:dustMagnesium>],
+    [<ore:rodStone>]]);
+
+recipes.addShaped(<TConstruct:decoration.stonetorch>*5,
+   [[<ore:dustPhosphorus>],
+    [<ore:rodStone>]]);
+    
+ recipes.addShaped(<TConstruct:decoration.stonetorch>*5,
+   [[<ore:dustBitumen>],
+    [<ore:rodStone>]]);
+    
+recipes.addShaped(<TConstruct:decoration.stonetorch>*6,
+   [[<Metallurgy:tar>],
+    [<ore:rodStone>]]);
+    
+recipes.addShaped(<TConstruct:decoration.stonetorch>*5,
+   [[<ore:dustSulfur>],
+    [<ore:rodStone>]]);
+    
+recipes.addShaped(<TConstruct:decoration.stonetorch>*5,
+   [[<ore:dustMagnesium>],
+    [<ore:rodStone>]]);
