@@ -86,3 +86,10 @@ recipes.addShaped(<TConstruct:decoration.stonetorch>*5,
 recipes.addShaped(<TConstruct:decoration.stonetorch>*5,
    [[<ore:dustMagnesium>],
     [<ore:rodStone>]]);
+    
+    
+furnace.setFuel(<ore:dustSulfur>, 1200);
+furnace.setFuel(<ore:dustMagnesium>, 3200);
+furnace.setFuel(<ore:dustPhosphorus>, 1600);
+furnace.setFuel(<ore:dustBitumen>, 800);
+furnace.setFuel(<Metallurgy:tar>, 2400);
