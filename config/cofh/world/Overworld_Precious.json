@@ -40,7 +40,7 @@
         ]
     },
     "overworld_zinc": {
-        "template": "uniform",
+        "template": "normal",
         "block": [
             {"name": "Metallurgy:precious.ore", "metadata": 0}
         ],

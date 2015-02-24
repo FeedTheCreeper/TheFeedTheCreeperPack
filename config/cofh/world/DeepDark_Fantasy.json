@@ -84,9 +84,7 @@
     },
     "deepDark_deepiron": {
         "template": "uniform",
-        "block": {
-            "name": "Metallurgy:fantasy.ore",
-            "metadata": 1 },
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 1},
          "material": [
          {"name": "stone"},
          {"name": "dirt"},
@@ -125,9 +123,7 @@
     },    
     "deepDark_infuscolium": {
         "template": "uniform",
-        "block": {
-            "name": "Metallurgy:fantasy.ore",
-            "metadata": 2 },
+        "block": { "name": "Metallurgy:fantasy.ore", "metadata": 2 },
          "material": [
          {"name": "stone"},
          {"name": "dirt"},
@@ -166,9 +162,7 @@
     },    
     "deepDark_oureclase": {
         "template": "uniform",
-        "block": {
-            "name": "Metallurgy:fantasy.ore",
-            "metadata": 4 },
+        "block": { "name": "Metallurgy:fantasy.ore", "metadata": 4 },
          "material": [
          {"name": "stone"},
          {"name": "dirt"},
@@ -197,9 +191,7 @@
         "maxHeight": 249,
         "retrogen": "false",
        "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             -100
@@ -207,9 +199,7 @@
     },    
     "deepDark_astralsilver": {
         "template": "uniform",
-        "block": {
-            "name": "Metallurgy:fantasy.ore",
-            "metadata": 5 },
+        "block": { "name": "Metallurgy:fantasy.ore", "metadata": 5 },
          "material": [
          {"name": "stone"},
          {"name": "dirt"},
@@ -238,9 +228,7 @@
         "maxHeight": 249,
         "retrogen": "false",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             -100
@@ -248,8 +236,7 @@
     },    
     "deepDark_carmot": {
         "template": "uniform",
-        "block": {
-            "name": "Metallurgy:fantasy.ore", "metadata": 6 },
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 6 },
          "material": [
          {"name": "stone"},
          {"name": "dirt"},
@@ -279,9 +266,7 @@
         "maxHeight": 251,
         "retrogen": "false",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             -100
@@ -289,8 +274,7 @@
     },    
     "deepDark_mithril": {
         "template": "uniform",
-        "block": {
-            "name": "Metallurgy:fantasy.ore", "metadata": 7 },
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 7 },
          "material": [
          {"name": "stone"},
          {"name": "dirt"},
@@ -318,10 +302,8 @@
         "minHeight": 221,
         "maxHeight": 245,
         "retrogen": "false",
-       "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomeRestriction": "none",
+        "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             -100
@@ -329,8 +311,7 @@
     },    
     "deepDark_rubracium": {
         "template": "uniform",
-        "block": {
-            "name": "Metallurgy:fantasy.ore", "metadata": 8 },
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 8 },
          "material": [
          {"name": "stone"},
          {"name": "dirt"},
@@ -359,9 +340,7 @@
         "maxHeight": 230,
         "retrogen": "false",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             -100
@@ -369,9 +348,7 @@
     },    
     "deepDark_orichalcum": {
         "template": "uniform",
-        "block": {
-            "name": "Metallurgy:fantasy.ore",
-            "metadata": 11 },
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 11},
          "material": [
          {"name": "stone"},
          {"name": "dirt"},
@@ -401,9 +378,7 @@
         "maxHeight": 249,
         "retrogen": "false",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             -100
@@ -441,9 +416,7 @@
         "maxHeight": 252,
         "retrogen": "false",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             -100
@@ -481,9 +454,7 @@
         "maxHeight": 249,
         "retrogen": "false",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             -100
@@ -494,15 +465,12 @@
         "block": "bedrock",
         "material": "stone",
         "clusterSize": 4,
-        "numClusters": 8,
-        "chunkChance": 1,
+        "numClusters": 11,
         "minHeight": 246,
         "maxHeight": 254,
         "retrogen": "false",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             -100
@@ -519,9 +487,7 @@
         "maxHeight": 254,
         "retrogen": "false",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             -100
