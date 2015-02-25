@@ -34,3 +34,11 @@ recipes.addShaped( <MekanismTools:SteelPaxel>, [
    [<Metallurgy:steel.axe>, <Metallurgy:steel.shovel>, <Metallurgy:steel.pickaxe>],
    [null, <ore:stickWood>, null],
    [null, <ore:stickWood>, null]]);
+   
+   
+# Salination Block Nerf to counter-balance Salination Plant output buff
+recipes.remove(<Mekanism:BasicBlock2>);
+recipes.addShaped( <Mekanism:BasicBlock2>, [
+   [<ore:ingotCopper>, <ore:blockCopper>, <ore:ingotCopper>],
+   [<ore:blockCopper>, <Mekanism:BasicBlock:9>, <ore:blockCopper>],
+   [<ore:ingotCopper>, <ore:blockCopper>, <ore:ingotCopper>]]);
