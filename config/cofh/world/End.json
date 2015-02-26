@@ -1,0 +1,18 @@
+{
+   "end_amethyst": {
+        "template": "uniform",
+        "block": "BiomesOPlenty:gemOre",
+        "material": "minecraft:end_stone",
+        "clusterSize": 2,
+        "numClusters": 1,
+        "minHeight": 64,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1
+        ]
+   }
+}
