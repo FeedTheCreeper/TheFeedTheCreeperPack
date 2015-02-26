@@ -1,17 +1,21 @@
+--------------------------------------------------------------------------------
+Mod Changes
+--------------------------------------------------------------------------------
 Updated
- · Advanced Generators 0.9.9.44
+ · Advanced Generators 0.9.9.46
  · Another One Bites the Dust 2.4.0
  · Applied Energistics 2 RV2-Beta8
  · AsieLib 0.3.8
  · Automagy 0.18
- · BDLib 1.6.3.48
+ · BDLib 1.6.3.49
  · Bibliocraft 1.9.2
  · Biomes o' Plenty 2.1.0.1057
  · Blood Magic 1.3.0B-3
  · Buildcraft 6.3.4
- · Botania R1.3-159
+ · Botania R1.4-159
  · Chisel 2.3.7.34
  · Carpenter's Blocks 3.3.5
+ · Damage Indicators 3.2.3
  · DragonAPI 4c
  · EnderIO 2.2.7.331
  · Geostrata 4a
@@ -43,12 +47,35 @@ Updated
  · WAILA Plugins 0.0.1-13
  
  Removed:
-  · Modtweaker
+  · ModTweaker
   
 Added:
  · ModTweaker 2 0.3.0
  · Open Peripheral Addons 0.2.0-145
  · Open Peripheral Core 0.5.0-179
  · Open Peripheral Integration 0.1.0-25
- · Thaumcraft Node Tracker 0.99-RC-1
+ · Thaumcraft Node Tracker 1.0.3
  · Tinkers' Tooltips 1.2.3
+ 
+ --------------------------------------------------------------------------------
+ Mod Pack Changes
+ --------------------------------------------------------------------------------
+  · Ore Generation has changes significantly. Most ores are now in narrower bands. Deep Dark ore gen is buffed above that of the Overworld, and Y-values are scaled to the height of the cavern floor. Metallurgy Fantasy Ores in Deep Dark have been moved to an inverted Y-position so that they aren't clogging up quarries constantly. Nether Ore Gen was adjusted she Y-values of ores were scaled so that they resembled the Overworld ore, if the Nether Roof was Sea Level.
+ · Many Metallurgy Utility Ores have been given more uses, like for torches, or as fuel.
+ · EnderIO Powered Spawner power consumption was scalled for Lycanites Mobs to better reflect the value of their drops.
+ · Time Torch recipe updated to require End Game magic mod materials.
+ · Rotten Flesh can now be smelted to Leather
+ · Boimes o' Plenty's dirt blocks can now be used in an Ore Dictionary Converter
+ · Boimes o' Plenty's grasses can now be used in an Ore Dictionary Converter
+ · Open Blocks Elevator can not pass through any blocks and has a range of 32.
+ · All ores are set to be able to replace GeoStrata rocks, dirt, gravel, & sandstone for better retrogen.
+ · Chisel Marble, Granite, and Limestone generation disabled; GeoStrata versions can be used in a Chisel.
+ · Lycanites Mobs spawning changed so that all spawn types will respect Magnum Torches,  Chandeliers, etc.
+ · Dungeon Pack dungeons are more rare
+ · Gravestone Mod Catacombs are more rare
+ · Players will drop their head upon death
+ · Mekanism machine volume decreased
+ · Mekanism Salination Plant Brine output Buffed, and the Salination Block recipe was correspondingly nerffed.
+ · Crafting recipe added for Chiselled Stone Bricks, was previously overwritten by ttCore
+ · 
+ 
