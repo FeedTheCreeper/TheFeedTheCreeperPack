@@ -69,7 +69,7 @@
         "clusterSize": 9,
         "numClusters": 3,
         "meanHeight": 65,
-        "maxVariance": 10.4,
+        "maxVariance": 10,
         "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],

@@ -110,7 +110,7 @@
         "numClusters": 6,
         "chunkChance": 2,
         "minHeight": 223,
-        "maxHeight": 264,
+        "maxHeight": 246,
         "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
