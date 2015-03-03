@@ -1,6 +1,23 @@
 ********************************************************************************
 *
 *
+*  Version 3.1.1
+*
+*
+********************************************************************************
+--------------------------------------------------------------------------------
+ Mod Pack Changes
+--------------------------------------------------------------------------------
+  · Deceased Blood Moon chance and allow sleeping through it.
+  · Highlands & Biomes o' Plenty biome IDs added to Growthcraft for Bamboo, Bees and Fishtrap compatibility
+  · Corrected issue in Nether with EnderIO attempting to infinitely spawn Wither Skeletons
+  · Correct Open Blocks' Elevator's ability to pass through blocks
+  
+  
+  
+********************************************************************************
+*
+*
 *  Version 3.1.0
 *
 *
