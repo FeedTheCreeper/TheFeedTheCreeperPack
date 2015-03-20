@@ -1,6 +1,101 @@
 ********************************************************************************
 *
 *
+*  Version 3.2.0
+*
+*
+********************************************************************************
+
+--------------------------------------------------------------------------------
+Mod Changes
+--------------------------------------------------------------------------------
+Updated
+ · Advanced Generators 0.9.11-hotfix1
+ · AsieLib 0.3.9
+ · Automagy 0.21
+ · BDLib 1.6.5.52
+ · Blood Magic 1.3.1-7
+ · Botania 1.5-169
+ · Buildcraft 6.4.3
+ · CodeChickenCore 1.0.4.35
+ · CodeChickenLib 1.1.1.110
+ · CoFH Core 3.0.0RC7-211
+ · CoFH Lib 1.0.0RC7-127
+ · ComputerCraft 1.73
+ · DragonAPI 5a
+ · EnderIO 2.2.8.349
+ · EnderTech 0.3.0.364
+ · Extra Utilities 1.2.2
+ · Forbidden Magic 0.562
+ · Forestry 3.4.0.7
+ · Forge Multipart 1.1.1.320
+ · Funky Locomotion Beta-5a
+ · GeoStrata 5a
+ · Hardcore Ender Expansion 1.7.1
+ · Headcrumbs 1.3.1
+ · IndustrialCraft 2 API 2.2.677
+ · INpureCore 1.0.0B9-54
+ · InventoryTweaks 1.59-dev-156
+ · JABBA 1.2.1a
+ · Lycanite's Mobs 1.10.11.5
+ · Mekanism 7.1.2.185
+ · Mekanism Generators 7.1.2.185
+ · Mekanism Tools 1.7.2.185
+ · Metallurgy 4.0.8.97
+ · Modular Systems 1.7.3
+ · MrTJPCore 1.0.5.11
+ · NEI Addons 1.12.3.13
+ · NEI Integration 1.0.7
+ · Not Enough Resources 0.1.0.95
+ · Opis 1.2.4a
+ · Progressive Automation 1.6.2
+ · Project: Red - Base 4.5.14.66
+ · Project: Red - Campat 4.5.14.66
+ · Project: Red - Integration 4.5.14.66
+ · Project: Red - Lighting 4.5.14.66
+ · Railcraft 9.5.0.0
+ · Restone Armoury 1.1.22
+ · Redstone Arsenal 1.1.0RC7-65
+ · Refined Relocation 1.0.7g
+ · Sanguimancy 1.1.9PRE-21
+ · Simply Jetpacks 1.4.1
+ · Thaumcraft Node Tracker 1.0.4
+ · Tinkers Construct 1.8.3b
+ · Thaumcraft 4.2.3.5
+ · Thaumic Exploration 1.1-37
+ · Thaumic Tinkerer 2.5-1.7.10-470
+ · Thermal Expansion 4.0.0RC7-141
+ · Thermal Foundation 1.0.0RC7-62
+ · Tinkers Mechworks 0.2.14.100
+ · TTCore 0.1.0-65
+ · WAILA 1.5.10
+ · WAILA Harvestability 1.1.2
+ 
+Added
+ · ModTeaker2 0.7.1
+ 
+Removed 
+ · ModTweaker 0.3.0
+ 
+--------------------------------------------------------------------------------
+ Mod Pack Changes
+--------------------------------------------------------------------------------
+ · Biomes 'o Plenty
+    · Increased Ender Amethyst Ore gen
+ · Ender IO
+    · Added Nether Ores processing
+    · Ender IO machines default to Metallurgy Ore Dictionary entries
+ · Ender Tech
+   · Increased Tank size
+ · Lycanite's Mobs
+   · various adjustments
+ · Mekanism 
+    · Added Nether Ores processing
+ · Thermal Expansion
+    · Terrain Smasher uses Diamond Pickaxe
+********************************************************************************
+*
+*
 *  Version 3.1.1
 *
 *

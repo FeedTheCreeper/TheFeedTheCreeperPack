@@ -68,14 +68,6 @@ found in the core file.
     </excludes>
   </grindingBalls>
 
-  <recipeGroup name="Engineer's Toolbox" enabled="false"/>
-  
-  <recipeGroup name="BigReactors" enabled="false"/>
-  
-  <recipeGroup name="UndergroundBiomesConstruct" enabled="false"/>
-  
-  <recipeGroup name="ExNihilo" enabled="false"/>
-  
   <recipeGroup name="Mekanism" enabled="true">
   
     <recipe name="DiamondDust" energyCost="4000">
