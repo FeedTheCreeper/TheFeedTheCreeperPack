@@ -72,7 +72,7 @@ Updated
  · WAILA Harvestability 1.1.2
  
 Added
- · ModTeaker2 0.7.1
+ · ModTweaker2 0.7.1
  
 Removed 
  · ModTweaker 0.3.0
@@ -85,6 +85,7 @@ Removed
  · Ender IO
     · Added Nether Ores processing
     · Ender IO machines default to Metallurgy Ore Dictionary entries
+    · Added all the hoes.
  · Ender Tech
    · Increased Tank size
  · Lycanite's Mobs
