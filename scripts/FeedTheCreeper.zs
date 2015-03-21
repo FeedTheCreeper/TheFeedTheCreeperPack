@@ -13,3 +13,7 @@ furnace.addRecipe(<minecraft:leather>, <minecraft:rotten_flesh>);
 recipes.addShaped( <minecraft:stonebrick:3> * 2, [
    [<ore:slabStoneBricks>, <ore:slabStoneBricks>],
    [<ore:slabStoneBricks>, <ore:slabStoneBricks>]]);
+   
+   
+<ore:skullEnderman>.add(<EnderIO:blockEndermanSkull>);
+<ore:skullEnderman>.add(<HardcoreEnderExpansion:enderman_head>);
