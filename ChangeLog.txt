@@ -86,14 +86,18 @@ Removed
     · Added Nether Ores processing
     · Ender IO machines default to Metallurgy Ore Dictionary entries
     · Added all the hoes.
+    · Added Enderman head to ore:skullEnderman
  · Ender Tech
    · Increased Tank size
+ · Hardcore Ender Expansion
+   · Added Enderman head to ore:skullEnderman
  · Lycanite's Mobs
    · various adjustments
  · Mekanism 
     · Added Nether Ores processing
  · Thermal Expansion
     · Terrain Smasher uses Diamond Pickaxe
+    
 ********************************************************************************
 *
 *
