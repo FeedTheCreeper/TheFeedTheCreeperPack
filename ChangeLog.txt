@@ -72,7 +72,9 @@ Updated
  · WAILA Harvestability 1.1.2
  
 Added
+ · Forge Multipart Integration 1.2.2
  · ModTweaker2 0.7.1
+ · More Chisels 1.0-20
  
 Removed 
  · ModTweaker 0.3.0
