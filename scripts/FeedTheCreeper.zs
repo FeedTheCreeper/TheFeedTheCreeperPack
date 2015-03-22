@@ -17,3 +17,9 @@ recipes.addShaped( <minecraft:stonebrick:3> * 2, [
    
 <ore:skullEnderman>.add(<EnderIO:blockEndermanSkull>);
 <ore:skullEnderman>.add(<HardcoreEnderExpansion:enderman_head>);
+
+recipes.addShapeless(<morechisels:ItemChiselFluxed>,
+   [<chisel:chisel>, <Mekanism:EnergyTablet:100>]);
+   
+recipes.addShapeless(<morechisels:ItemChiselFluxed>.withTag({Energy:100000}),
+   [<chisel:chisel>, <Mekanism:EnergyTablet:1>]);
