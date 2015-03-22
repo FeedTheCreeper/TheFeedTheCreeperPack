@@ -15,14 +15,14 @@ Updated
  · Automagy 0.21
  · BDLib 1.6.5.52
  · Blood Magic 1.3.1-7
- · Botania 1.5-169
- · Buildcraft 6.4.3
+ · Botania 1.5-170
+ · Buildcraft 6.4.4
  · CodeChickenCore 1.0.4.35
  · CodeChickenLib 1.1.1.110
  · CoFH Core 3.0.0RC7-211
  · CoFH Lib 1.0.0RC7-127
  · ComputerCraft 1.73
- · DragonAPI 5a
+ · DragonAPI 5c
  · EnderIO 2.2.8.349
  · EnderTech 0.3.0.364
  · Extra Utilities 1.2.2
@@ -59,6 +59,7 @@ Updated
  · Refined Relocation 1.0.7g
  · Sanguimancy 1.1.9PRE-21
  · Simply Jetpacks 1.4.1
+ · Storage Drawers 1.3.3
  · Thaumcraft Node Tracker 1.0.4
  · Tinkers Construct 1.8.3b
  · Thaumcraft 4.2.3.5
@@ -72,6 +73,7 @@ Updated
  · WAILA Harvestability 1.1.2
  
 Added
+ · BuildCraft Compat 6.4.1
  · Forge Multipart Integration 1.2.2
  · ModTweaker2 0.7.1
  · More Chisels 1.0-20
@@ -91,15 +93,36 @@ Removed
     · Added Enderman head to ore:skullEnderman
  · Ender Tech
    · Increased Tank size
+   · Changed recipe for Redstone Exchanger to Resonant Exchanger upgrade to not require redundant Redstone Flux Capacitor
  · Hardcore Ender Expansion
    · Added Enderman head to ore:skullEnderman
+ · JABBA
+    · Fixed Barrel Hammer recipe
  · Lycanite's Mobs
    · various adjustments
  · Mekanism 
     · Added Nether Ores processing
+ · More Chisels
+    · Added Mekanism recipe for Fluxed Chisel
+ · Storage Drawers
+    · Inverted clicking behavior to mimic JABBA
+    · Changed to Fancy item rendering
  · Thermal Expansion
     · Terrain Smasher uses Diamond Pickaxe
     
+--------------------------------------------------------------------------------
+ Known Issues
+--------------------------------------------------------------------------------    
+ · Attempting to cheat in item from NEI with full inventory results in a client crash 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ********************************************************************************
 *
 *
