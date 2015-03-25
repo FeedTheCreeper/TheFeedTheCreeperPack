@@ -86,6 +86,8 @@ Removed
 --------------------------------------------------------------------------------
  · Biomes 'o Plenty
     · Increased Ender Amethyst Ore gen
+ · Botania
+    · Increased Mystical Flower generation 
  · Ender IO
     · Added Nether Ores processing
     · Ender IO machines default to Metallurgy Ore Dictionary entries
@@ -104,6 +106,9 @@ Removed
     · Added Nether Ores processing
  · More Chisels
     · Added Mekanism recipe for Fluxed Chisel
+ · Natura
+    · Decreased Dark Clouds in the End
+    · Enabled Ash and Sulphur clouds in the Nether 
  · Storage Drawers
     · Inverted clicking behavior to mimic JABBA
     · Changed to Fancy item rendering
