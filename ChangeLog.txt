@@ -16,7 +16,8 @@ Updated
  · BDLib 1.6.5.52
  · Blood Magic 1.3.1-7
  · Botania 1.5-170
- · Buildcraft 6.4.4
+ · Buildcraft 6.4.5
+ · Chisel 2 2.3.8.35
  · CodeChickenCore 1.0.4.35
  · CodeChickenLib 1.1.1.110
  · CoFH Core 3.0.0RC7-211
@@ -48,11 +49,11 @@ Updated
  · NEI Integration 1.0.7
  · Not Enough Resources 0.1.0.95
  · Opis 1.2.4a
- · Progressive Automation 1.6.2
- · Project: Red - Base 4.5.14.66
- · Project: Red - Campat 4.5.14.66
- · Project: Red - Integration 4.5.14.66
- · Project: Red - Lighting 4.5.14.66
+ · Progressive Automation 1.6.4
+ · Project: Red - Base 4.5.15.75
+ · Project: Red - Campat 4.5.15.75
+ · Project: Red - Integration 4.5.15.75
+ · Project: Red - Lighting 4.5.15.75
  · Railcraft 9.5.0.0
  · Restone Armoury 1.1.22
  · Redstone Arsenal 1.1.0RC7-65
@@ -77,6 +78,7 @@ Added
  · Forge Multipart Integration 1.2.2
  · ModTweaker2 0.7.1
  · More Chisels 1.0-20
+ · Thaumcraft NEI Plugin 1.7
  
 Removed 
  · ModTweaker 0.3.0
@@ -94,7 +96,7 @@ Removed
     · Added all the hoes.
     · Added Enderman head to ore:skullEnderman
  · Ender Tech
-   · Increased Tank size
+   · Increased Tank size so there's a reason to use it rather than Railcraft or such
    · Changed recipe for Redstone Exchanger to Resonant Exchanger upgrade to not require redundant Redstone Flux Capacitor
  · Hardcore Ender Expansion
    · Added Enderman head to ore:skullEnderman
@@ -109,6 +111,8 @@ Removed
  · Natura
     · Decreased Dark Clouds in the End
     · Enabled Ash and Sulphur clouds in the Nether 
+ · Project: Red
+    · Silicon will now use Ore Dictionary
  · Storage Drawers
     · Inverted clicking behavior to mimic JABBA
     · Changed to Fancy item rendering
