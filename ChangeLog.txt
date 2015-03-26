@@ -118,6 +118,8 @@ Removed
     · Changed to Fancy item rendering
  · Thermal Expansion
     · Terrain Smasher uses Diamond Pickaxe
+ · Thermal Foundation
+    · Mana-Infused ore gen removed, Metallurgy Mithril adjusted to compensate
     
 --------------------------------------------------------------------------------
  Known Issues
