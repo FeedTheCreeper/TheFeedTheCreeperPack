@@ -29,6 +29,7 @@
 ./CoFHCore-[1.7.10]3.0.0RC7-211.jar
 ./CoFHLib-[1.7.10]1.0.0RC7-127.jar
 ./COMPUTERCRAFT1.73.jar
+./DefaultWorldGenerator-1.7.10-0.1-b13-universal.jar
 ./DIMENSIONAL-ANCHOR-59.0.2.jar
 ./DragonAPI 1.7.10 V5c.jar
 ./dungeonpack-1.7.10-1.0.jar

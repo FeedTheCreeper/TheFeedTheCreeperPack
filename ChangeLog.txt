@@ -75,6 +75,7 @@ Updated
  
 Added
  · BuildCraft Compat 6.4.1
+ · Default World Generator 0.1-b13
  · Forge Multipart Integration 1.2.2
  · ModTweaker2 0.7.1
  · More Chisels 1.0-20
@@ -100,6 +101,8 @@ Removed
    · Changed recipe for Redstone Exchanger to Resonant Exchanger upgrade to not require redundant Redstone Flux Capacitor
  · Hardcore Ender Expansion
    · Added Enderman head to ore:skullEnderman
+ · Headcrumbs
+   · Adjusted mobs
  · JABBA
     · Fixed Barrel Hammer recipe
  · Lycanite's Mobs
