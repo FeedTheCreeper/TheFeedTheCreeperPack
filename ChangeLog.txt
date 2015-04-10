@@ -9,11 +9,16 @@
 --------------------------------------------------------------------------------
 Mod Pack Changes
 --------------------------------------------------------------------------------
-· CoFH Core
-   · Reverted Holding Enchant back to old Id
-· Applied Energistics
-   · Changed increment values to powers of two
-
+ · Applied Energistics
+    · Changed increment values to powers of two
+ · CoFH Core
+    · Reverted Holding Enchant back to old Id
+ · JABBA
+    · Added higher tier Structural Upgrades
+ · Thermal Expansion
+    · Adjusted Caches' size values
+    
+    
 ********************************************************************************
 *
 *
@@ -25,10 +30,10 @@ Mod Pack Changes
 --------------------------------------------------------------------------------
 Mod Pack Changes
 --------------------------------------------------------------------------------
-· Ender IO
-   · Added Reversing How to Farming Station
-· Hardcore Ender Expansion
-   · Disabled April Fools' Day joke, it kept clients from joining the server
+ · Ender IO
+    · Added Reversing How to Farming Station
+ · Hardcore Ender Expansion
+    · Disabled April Fools' Day joke, it kept clients from joining the server
 
 ********************************************************************************
 *
