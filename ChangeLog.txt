@@ -1,6 +1,84 @@
 ********************************************************************************
 *
 *
+*  Version 3.3.0
+*
+*
+********************************************************************************
+
+--------------------------------------------------------------------------------
+Mod Changes
+--------------------------------------------------------------------------------
+Updated
+ · CodeChickenLib 1.1.3.127
+ · ForgeMultipart 1.1.2.331
+ · MrTJPCore 1.0.5.12
+ · bspkrsCore 6.16
+ · Automagy 0.22.1
+ · BdLib 1.7.0.70
+ · BiblioCraft 1.10.32
+ · Biomes o' Plenty 2.1.0.1237
+ · Blood Magic 1.3.2-1
+ · Botania 1.6-179
+ · BuildCraft 6.4.11
+ · BuildCraft Compat 6.4.2
+ · Carpenter's Blocks 3.3.6
+ · Chisel 2 2.3.10.37
+ · CoFH Core 3.0.2-262
+ · CoFH lib 1.0.1-151
+ · DragonAPI 6f
+ · Ender IO 2.2.8.367
+ · Ender Tech 0.3.2.382
+ · Extra Utilities 1.2.3
+ · Feed the Creeper Tweaks 1.0.0
+ · Forestry 3.5.3.11
+ · Advanced Generators 0.9.12.64
+ · GeoStrata 6a
+ · GraveStone 2.12.1
+ · Hardcore Ender Expansion 1.8
+ · Lycanite's Mobs 1.10.12.1
+ · Mobius Core 1.2.5
+ · NEI Addons 1.12.5.17
+ · Nether Ores 2.3.0-12
+ · Open Blocks 1.4.1
+ · Open Mods Lib 0.7.1
+ · Open Peripheral Addons 0.3.1
+ · Open Peripheral Core 1.1
+ · Open Peripheral Integration 0.2.1
+ · Opis 1.2.5
+ · Progressive Automation 1.6.14
+ · Project: Red - Base 4.5.16.77
+ · Project: Red - Compat 4.5.16.77
+ · Project: Red - Integration 4.5.16.77
+ · Project: Red - Lighting 4.5.16.77
+ · Redstone Armoury 1.1-27
+ · Redstone Arsenal 1.1.0-80
+ · Refined Relocation 1.0.8a
+ · Sanguimancy 1.1.9-26
+ · Storage Drawers 1.3.9
+ · Thaumcraft node Tracker 1.0.5
+ · Thermal Expansion 4.0.1-182
+ · Thermal Foundation 1.0.0-81
+ · ttCore 0.1.1-75
+ 
+Added
+ · Guide API 1.0-8
+ 
+--------------------------------------------------------------------------------
+Mod Pack Changes
+--------------------------------------------------------------------------------
+ · Feed the Creeper Tweaks
+    · Progressive Automation Unbreaking Tools fix for Ender IO Farming Station
+    · Extra Utilities Ethereal Tools fixed for Ender IO Farming Station
+    · Bedrockium Tools added
+    · Starry Apple added
+    · Withers can drop Miniature Green Hearts under the right conditions
+    · TiCo Green Heart Canisters have been made craftable
+    
+    
+********************************************************************************
+*
+*
 *  Version 3.2.2
 *
 *
