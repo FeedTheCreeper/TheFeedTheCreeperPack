@@ -19,7 +19,7 @@ Updated
  · BiblioCraft 1.10.32
  · Biomes o' Plenty 2.1.0.1237
  · Blood Magic 1.3.2-1
- · Botania 1.6-179
+ · Botania 1.6-181
  · BuildCraft 6.4.11
  · BuildCraft Compat 6.4.2
  · Carpenter's Blocks 3.3.6
@@ -62,6 +62,7 @@ Updated
  · ttCore 0.1.1-75
  
 Added
+ · Cart Fixes 0.1.0
  · Guide API 1.0-8
  
 --------------------------------------------------------------------------------
@@ -74,7 +75,9 @@ Mod Pack Changes
     · Starry Apple added
     · Withers can drop Miniature Green Hearts under the right conditions
     · TiCo Green Heart Canisters have been made craftable
-    
+ · Mekanism
+    · Carboard Box Recipe nerffed slightly
+    · Carboard Box Recipe buffed slightly
     
 ********************************************************************************
 *
