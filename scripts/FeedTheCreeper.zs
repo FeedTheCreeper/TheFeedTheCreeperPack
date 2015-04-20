@@ -23,3 +23,13 @@ recipes.addShapeless(<morechisels:ItemChiselFluxed>,
    
 recipes.addShapeless(<morechisels:ItemChiselFluxed>.withTag({Energy:100000}),
    [<chisel:chisel>, <Mekanism:EnergyTablet:1>]);
+
+<ore:pulpWood>.add(<ThermalExpansion:material:512>);
+
+<ore:slimeCardboard>.add(<TConstruct:strangeFood>);
+<ore:slimeCardboard>.add(<Metallurgy:tar>);
+
+recipes.remove(<Mekanism:CardboardBox>);
+recipes.addShapeless(<Mekanism:CardboardBox>,
+   [<ore:pulpWood>,<ore:pulpWood>,<ore:pulpWood>,<ore:pulpWood>,<ore:slimeCardboard>]);
+   
