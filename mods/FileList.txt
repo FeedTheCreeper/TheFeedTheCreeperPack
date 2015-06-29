@@ -70,7 +70,7 @@
 ./IRONCHEST-1.7.10-6.0.62.742-UNIVERSAL.jar
 ./Jabba-1.2.1a_1.7.10.jar
 ./JAVA7CHECKER  MC-1.7.10  V1.1.jar
-./LycanitesMobsComplete 1.10.12.1 [1.7.10].jar
+LycanitesMobsComplete 1.11.0.2 [1.7.10].jar
 ./MANTLE-1.7.10-0.3.2.jar
 ./Mekanism-1.7.10-7.1.2.185.jar
 ./MekanismGenerators-1.7.10-7.1.2.185.jar
