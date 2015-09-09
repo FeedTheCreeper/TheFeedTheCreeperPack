@@ -1,0 +1,3 @@
+[submodule "mods"]
+	path = mods
+	url = https://gitlab.com/thor12022/TheFeedTheCreeperPackMods.git
