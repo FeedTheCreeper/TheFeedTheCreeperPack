@@ -1,0 +1,547 @@
+[
+  {
+    "input": "ingotIron",
+    "output": "Metallurgy:vanilla.dust:1",
+    "qty": 1
+  },
+  {
+    "input": "ingotGold",
+    "output": "Metallurgy:vanilla.dust:0",
+    "qty": 1
+  },
+  {
+    "input": "oreRedstone",
+    "output": "minecraft:redstone:0",
+    "qty": 8
+  },
+  {
+    "input": "ingotCopper",
+    "output": "Metallurgy:base.dust:0",
+    "qty": 1
+  },
+  {
+    "input": "ingotTin",
+    "output": "Metallurgy:base.dust:1",
+    "qty": 1
+  },
+  {
+    "input": "ingotBronze",
+    "output": "Metallurgy:base.dust:3",
+    "qty": 1
+  },
+  {
+    "input": "ingotSteel",
+    "output": "Metallurgy:base.dust:7",
+    "qty": 1
+  },
+  {
+    "input": "oreSulfur",
+    "output": "Railcraft:dust:1",
+    "qty": 2
+  },
+  {
+    "input": "oreSaltpeter",
+    "output": "Railcraft:dust:2",
+    "qty": 2
+  },
+  {
+    "input": "ingotCobalt",
+    "output": "TConstruct:materials:39",
+    "qty": 1
+  },
+  {
+    "input": "ingotArdite",
+    "output": "TConstruct:materials:38",
+    "qty": 1
+  },
+  {
+    "input": "ingotManyullyn",
+    "output": "TConstruct:materials:41",
+    "qty": 1
+  },
+  {
+    "input": "ingotAluminum",
+    "output": "TConstruct:materials:40",
+    "qty": 1
+  },
+  {
+    "input": "ingotAluminium",
+    "output": "TConstruct:materials:40",
+    "qty": 1
+  },
+  {
+    "input": "ingotAluminumBrass",
+    "output": "TConstruct:materials:42",
+    "qty": 1
+  },
+  {
+    "input": "ingotAluminiumBrass",
+    "output": "TConstruct:materials:42",
+    "qty": 1
+  },
+  {
+    "input": "ingotObsidian",
+    "output": "Railcraft:dust:0",
+    "qty": 1
+  },
+  {
+    "input": "oreArdite",
+    "output": "TConstruct:materials:38",
+    "qty": 2
+  },
+  {
+    "input": "oreCobalt",
+    "output": "TConstruct:materials:39",
+    "qty": 2
+  },
+  {
+    "input": "oreAluminium",
+    "output": "TConstruct:materials:40",
+    "qty": 2
+  },
+  {
+    "input": "oreAluminum",
+    "output": "TConstruct:materials:40",
+    "qty": 2
+  },
+  {
+    "input": "oreCopper",
+    "output": "Metallurgy:base.dust:0",
+    "qty": 2
+  },
+  {
+    "input": "oreTin",
+    "output": "Metallurgy:base.dust:1",
+    "qty": 2
+  },
+  {
+    "input": "oreManganese",
+    "output": "Metallurgy:base.dust:2",
+    "qty": 2
+  },
+  {
+    "input": "ingotManganese",
+    "output": "Metallurgy:base.dust:2",
+    "qty": 1
+  },
+  {
+    "input": "ingotHepatizon",
+    "output": "Metallurgy:base.dust:4",
+    "qty": 1
+  },
+  {
+    "input": "ingotDamascusSteel",
+    "output": "Metallurgy:base.dust:5",
+    "qty": 1
+  },
+  {
+    "input": "ingotAngmallen",
+    "output": "Metallurgy:base.dust:6",
+    "qty": 1
+  },
+  {
+    "input": "oreEximite",
+    "output": "Metallurgy:ender.dust:0",
+    "qty": 2
+  },
+  {
+    "input": "ingotEximite",
+    "output": "Metallurgy:ender.dust:0",
+    "qty": 1
+  },
+  {
+    "input": "oreMeutoite",
+    "output": "Metallurgy:ender.dust:1",
+    "qty": 2
+  },
+  {
+    "input": "ingotMeutoite",
+    "output": "Metallurgy:ender.dust:1",
+    "qty": 1
+  },
+  {
+    "input": "ingotDesichalkos",
+    "output": "Metallurgy:ender.dust:2",
+    "qty": 1
+  },
+  {
+    "input": "orePrometheum",
+    "output": "Metallurgy:fantasy.dust:0",
+    "qty": 2
+  },
+  {
+    "input": "ingotPrometheum",
+    "output": "Metallurgy:fantasy.dust:0",
+    "qty": 1
+  },
+  {
+    "input": "oreDeepIron",
+    "output": "Metallurgy:fantasy.dust:1",
+    "qty": 2
+  },
+  {
+    "input": "ingotDeepIron",
+    "output": "Metallurgy:fantasy.dust:1",
+    "qty": 1
+  },
+  {
+    "input": "oreInfuscolium",
+    "output": "Metallurgy:fantasy.dust:2",
+    "qty": 2
+  },
+  {
+    "input": "ingotInfuscolium",
+    "output": "Metallurgy:fantasy.dust:2",
+    "qty": 1
+  },
+  {
+    "input": "ingotBlackSteel",
+    "output": "Metallurgy:fantasy.dust:3",
+    "qty": 1
+  },
+  {
+    "input": "oreOureclase",
+    "output": "Metallurgy:fantasy.dust:4",
+    "qty": 2
+  },
+  {
+    "input": "ingotOureclase",
+    "output": "Metallurgy:fantasy.dust:4",
+    "qty": 1
+  },
+  {
+    "input": "oreAstralSilver",
+    "output": "Metallurgy:fantasy.dust:5",
+    "qty": 2
+  },
+  {
+    "input": "ingotAstralSilver",
+    "output": "Metallurgy:fantasy.dust:5",
+    "qty": 1
+  },
+  {
+    "input": "oreCarmot",
+    "output": "Metallurgy:fantasy.dust:6",
+    "qty": 2
+  },
+  {
+    "input": "ingotCarmot",
+    "output": "Metallurgy:fantasy.dust:6",
+    "qty": 1
+  },
+  {
+    "input": "oreMithril",
+    "output": "Metallurgy:fantasy.dust:7",
+    "qty": 2
+  },
+  {
+    "input": "ingotMithril",
+    "output": "Metallurgy:fantasy.dust:7",
+    "qty": 1
+  },
+  {
+    "input": "oreRubracium",
+    "output": "Metallurgy:fantasy.dust:8",
+    "qty": 2
+  },
+  {
+    "input": "ingotRubracium",
+    "output": "Metallurgy:fantasy.dust:8",
+    "qty": 1
+  },
+  {
+    "input": "ingotQuicksilver",
+    "output": "Metallurgy:fantasy.dust:9",
+    "qty": 1
+  },
+  {
+    "input": "ingotHaderoth",
+    "output": "Metallurgy:fantasy.dust:10",
+    "qty": 1
+  },
+  {
+    "input": "oreOrichalcum",
+    "output": "Metallurgy:fantasy.dust:11",
+    "qty": 2
+  },
+  {
+    "input": "ingotOrichalcum",
+    "output": "Metallurgy:fantasy.dust:11",
+    "qty": 1
+  },
+  {
+    "input": "ingotCelenegil",
+    "output": "Metallurgy:fantasy.dust:12",
+    "qty": 1
+  },
+  {
+    "input": "oreAdamantine",
+    "output": "Metallurgy:fantasy.dust:13",
+    "qty": 2
+  },
+  {
+    "input": "ingotAdamantine",
+    "output": "Metallurgy:fantasy.dust:13",
+    "qty": 1
+  },
+  {
+    "input": "oreAtlarus",
+    "output": "Metallurgy:fantasy.dust:14",
+    "qty": 2
+  },
+  {
+    "input": "ingotAtlarus",
+    "output": "Metallurgy:fantasy.dust:14",
+    "qty": 1
+  },
+  {
+    "input": "ingotTartarite",
+    "output": "Metallurgy:fantasy.dust:15",
+    "qty": 1
+  },
+  {
+    "input": "oreIgnatius",
+    "output": "Metallurgy:nether.dust:0",
+    "qty": 2
+  },
+  {
+    "input": "ingotIgnatius",
+    "output": "Metallurgy:nether.dust:0",
+    "qty": 1
+  },
+  {
+    "input": "oreShadowIron",
+    "output": "Metallurgy:nether.dust:1",
+    "qty": 2
+  },
+  {
+    "input": "ingotShadowIron",
+    "output": "Metallurgy:nether.dust:1",
+    "qty": 1
+  },
+  {
+    "input": "oreLemurite",
+    "output": "Metallurgy:nether.dust:2",
+    "qty": 2
+  },
+  {
+    "input": "ingotLemurite",
+    "output": "Metallurgy:nether.dust:2",
+    "qty": 1
+  },
+  {
+    "input": "oreMidasium",
+    "output": "Metallurgy:nether.dust:3",
+    "qty": 2
+  },
+  {
+    "input": "ingotMidasium",
+    "output": "Metallurgy:nether.dust:3",
+    "qty": 1
+  },
+  {
+    "input": "oreVyroxeres",
+    "output": "Metallurgy:nether.dust:4",
+    "qty": 2
+  },
+  {
+    "input": "ingotVyroxeres",
+    "output": "Metallurgy:nether.dust:4",
+    "qty": 1
+  },
+  {
+    "input": "oreCeruclase",
+    "output": "Metallurgy:nether.dust:5",
+    "qty": 2
+  },
+  {
+    "input": "ingotCeruclase",
+    "output": "Metallurgy:nether.dust:5",
+    "qty": 1
+  },
+  {
+    "input": "oreAlduorite",
+    "output": "Metallurgy:nether.dust:6",
+    "qty": 2
+  },
+  {
+    "input": "ingotAlduorite",
+    "output": "Metallurgy:nether.dust:6",
+    "qty": 1
+  },
+  {
+    "input": "oreKalendrite",
+    "output": "Metallurgy:nether.dust:7",
+    "qty": 2
+  },
+  {
+    "input": "ingotKalendrite",
+    "output": "Metallurgy:nether.dust:7",
+    "qty": 1
+  },
+  {
+    "input": "oreVulcanite",
+    "output": "Metallurgy:nether.dust:8",
+    "qty": 2
+  },
+  {
+    "input": "ingotVulcanite",
+    "output": "Metallurgy:nether.dust:8",
+    "qty": 1
+  },
+  {
+    "input": "oreSanguinite",
+    "output": "Metallurgy:nether.dust:9",
+    "qty": 2
+  },
+  {
+    "input": "ingotSanguinite",
+    "output": "Metallurgy:nether.dust:9",
+    "qty": 1
+  },
+  {
+    "input": "ingotShadowSteel",
+    "output": "Metallurgy:nether.dust:10",
+    "qty": 1
+  },
+  {
+    "input": "ingotInolashite",
+    "output": "Metallurgy:nether.dust:11",
+    "qty": 1
+  },
+  {
+    "input": "ingotAmordrine",
+    "output": "Metallurgy:nether.dust:12",
+    "qty": 1
+  },
+  {
+    "input": "oreZinc",
+    "output": "Metallurgy:precious.dust:0",
+    "qty": 2
+  },
+  {
+    "input": "ingotZinc",
+    "output": "Metallurgy:precious.dust:0",
+    "qty": 1
+  },
+  {
+    "input": "oreSilver",
+    "output": "Metallurgy:precious.dust:1",
+    "qty": 2
+  },
+  {
+    "input": "ingotSilver",
+    "output": "Metallurgy:precious.dust:1",
+    "qty": 1
+  },
+  {
+    "input": "orePlatinum",
+    "output": "Metallurgy:precious.dust:2",
+    "qty": 2
+  },
+  {
+    "input": "ingotPlatinum",
+    "output": "Metallurgy:precious.dust:2",
+    "qty": 1
+  },
+  {
+    "input": "ingotBrass",
+    "output": "Metallurgy:precious.dust:3",
+    "qty": 1
+  },
+  {
+    "input": "ingotElectrum",
+    "output": "Metallurgy:precious.dust:4",
+    "qty": 1
+  },
+  {
+    "input": "oreMagnesium",
+    "output": "Metallurgy:utility.item:3",
+    "qty": 2
+  },
+  {
+    "input": "oreBitumen",
+    "output": "Metallurgy:utility.item:4",
+    "qty": 2
+  },
+  {
+    "input": "orePotash",
+    "output": "Metallurgy:utility.item:5",
+    "qty": 2
+  },
+  {
+    "input": "oreGold",
+    "output": "Metallurgy:vanilla.dust:0",
+    "qty": 2
+  },
+  {
+    "input": "oreIron",
+    "output": "Metallurgy:vanilla.dust:1",
+    "qty": 2
+  },
+  {
+    "input": "ingotBlaze",
+    "output": "minecraft:blaze_powder:0",
+    "qty": 1
+  },
+  {
+    "input": "rodBlaze",
+    "output": "minecraft:blaze_powder:0",
+    "qty": 4
+  },
+  {
+    "input": "cobblestone",
+    "output": "minecraft:sand:0",
+    "qty": 1
+  },
+  {
+    "input": "minecraft:bone:0",
+    "output": "minecraft:dye:15",
+    "qty": 6
+  },
+  {
+    "input": "oreQuartz",
+    "output": "minecraft:quartz:0",
+    "qty": 4
+  },
+  {
+    "input": "minecraft:clay:0",
+    "output": "minecraft:clay_ball:0",
+    "qty": 4
+  },
+  {
+    "input": "oreDiamond",
+    "output": "minecraft:diamond:0",
+    "qty": 2
+  },
+  {
+    "input": "oreEmerald",
+    "output": "minecraft:emerald:0",
+    "qty": 2
+  },
+  {
+    "input": "glowstone",
+    "output": "minecraft:glowstone_dust:0",
+    "qty": 4
+  },
+  {
+    "input": "oreCoal",
+    "output": "minecraft:coal:0",
+    "qty": 4
+  },
+  {
+    "input": "blockCloth",
+    "output": "minecraft:string:0",
+    "qty": 4
+  },
+  {
+    "input": "blockGlass",
+    "output": "minecraft:sand:0",
+    "qty": 1
+  },
+  {
+    "input": "gravel",
+    "output": "minecraft:flint:0",
+    "qty": 1
+  }
+]
