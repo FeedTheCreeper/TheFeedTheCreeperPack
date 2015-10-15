@@ -15,6 +15,52 @@
             0
         ]
     },
+    "overworld_sand": {
+        "template": "uniform",
+        "block": "sand",
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 8,
+        "minHeight": 5,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "blacklist",
+        "biomes": [
+            {"type": "dictionary", "entry": "SANDY"}
+         ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "overworld_sandVeins": {
+        "template": "uniform",
+        "generator": "large-vein",
+        "block": [
+            {
+                "name": "sand",
+                "weight": 9
+            },
+            {
+                "name": "sandstone",
+                "weight": 1
+            }
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 24,
+        "numClusters": 1,
+        "minHeight": 5,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "dictionary", "entry": "SANDY"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
     "overworld_gravel": {
         "template": "uniform",
         "block": "gravel",

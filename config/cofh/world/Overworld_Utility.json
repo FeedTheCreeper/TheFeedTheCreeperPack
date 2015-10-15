@@ -77,7 +77,8 @@
         ]
     },
     "overworld_sulfur_lakes": {
-        "template": "normal",
+        "template": "underfluid",
+	"generator": "cluster",
         "block": "Metallurgy:utility.ore",
          "material": [
          {"name": "stone"},
@@ -101,10 +102,9 @@
          {"name": "GeoStrata:geostrata_rock_shale_smooth"},
          {"name": "GeoStrata:geostrata_rock_slate_smooth"}
         ],
+	"genFluid" : "Lava",
         "clusterSize": 4,
         "numClusters": 2,
-        "meanHeight": 6,
-        "maxVariance":4,
         "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
