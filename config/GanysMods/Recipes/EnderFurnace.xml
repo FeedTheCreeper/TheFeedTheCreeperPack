@@ -44,16 +44,6 @@ The syntax for ore dictionary values is the value between double-quotes. (e.g. "
 	</recipe>
 
 	<recipe status="default">
-		<output>minecraft:dragon_egg 1 0</output>
-		<input1>"skullEnderDragon"</input1>
-	</recipe>
-
-	<recipe status="default">
-		<output>minecraft:nether_star 1 0</output>
-		<input1>"skullWither"</input1>
-	</recipe>
-
-	<recipe status="default">
 		<output>ganysend:endiumIngot 2 0</output>
 		<input1>"oreEndium"</input1>
 	</recipe>
