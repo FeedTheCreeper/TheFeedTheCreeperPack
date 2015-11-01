@@ -3,17 +3,6 @@
 ###############################################################################
 import mods.nei.NEI;
 
- # stone crusher
- # recipes.remove(<metallurgycm:crusher:0>);
- # NEI.hide(<metallurgycm:crusher:0>);
-
- # copper crusher
- # recipes.remove(<metallurgycm:crusher:1>);
- # recipes.addShaped(<metallurgycm:crusher:1>, 
- #                   [[<ore:ingotCopper>, <ore:stick>,         <ore:ingotCopper>],
- #                    [<ore:stick>,       <minecraft:furnace>, <ore:stick>],
- #                    [<ore:ingotCopper>, <ore:stick>,         <ore:ingotCopper>]]);
-
 recipes.addShaped(<minecraft:torch>*5,
    [[<ore:dustPhosphorus>],
     [<ore:stickWood>]]);
