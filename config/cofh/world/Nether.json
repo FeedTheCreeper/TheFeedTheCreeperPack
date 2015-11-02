@@ -24,7 +24,66 @@
         "minHeight": 5,
         "maxHeight": 122,
         "retrogen": "false",
-        "biomeRestriction": "whitelist",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+   "nether_ironBerries": {
+        "template": "cave",
+        "generator": "decoration",
+        "block": [
+            {"name": "TConstruct:ore.berries.one", "metadata": 8}
+        ],
+        "material": [
+            "air"
+        ],
+        "genSurface" : [
+            "minecraft:gravel",
+            "minecraft:soul_sand",
+            "minecraft:netherrack"
+        ],
+        "ceiling" : "false",
+        "genSky" : "false",
+        "checkStay" : "false",
+        "clusterSize" : 4,
+        "numClusters" : 1,
+        "chunkChance" : 0.3,
+        "xVariance" : 2,
+        "yVariance" : 2,
+        "zVariance" : 2,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+   "nether_tinBerries": {
+        "template": "cave",
+        "generator": "decoration",
+        "block": [
+            {"name": "TConstruct:ore.berries.one", "metadata": 11}
+        ],
+        "material": [
+            "air"
+        ],
+        "genSurface" : [
+            "minecraft:gravel",
+            "minecraft:soul_sand",
+            "minecraft:netherrack"
+        ],
+        "ceiling" : "false",
+        "genSky" : "false",
+        "checkStay" : "false",
+        "clusterSize" : 4,
+        "numClusters" : 1,
+        "chunkChance" : 0.3,
+        "xVariance" : 2,
+        "yVariance" : 2,
+        "zVariance" : 2,
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "whitelist",

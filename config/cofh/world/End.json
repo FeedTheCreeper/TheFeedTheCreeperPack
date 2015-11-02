@@ -1,3 +1,24 @@
 {
-
+"nether_essenceBerries": {
+        "template": "decoration",
+        "block": [
+            {"name": "TConstruct:ore.berries.two", "metadata": 9}
+        ],
+        "material": [],
+        "genSurface" : "minecraft:end_stone",
+        "genSky" : "false",
+        "clusterSize" : 3,
+        "numClusters" : 1,
+        "chunkChance" : 0.825,
+        "xVariance" : 2,
+        "yVariance" : 2,
+        "zVariance" : 2,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1
+        ]
+    }
 }
