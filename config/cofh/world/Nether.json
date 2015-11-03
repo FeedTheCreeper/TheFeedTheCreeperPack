@@ -48,9 +48,9 @@
         "ceiling" : "false",
         "genSky" : "false",
         "checkStay" : "false",
-        "clusterSize" : 4,
+        "clusterSize" : 6,
         "numClusters" : 1,
-        "chunkChance" : 0.3,
+        "chunkChance" : 10,
         "xVariance" : 2,
         "yVariance" : 2,
         "zVariance" : 2,
@@ -78,9 +78,9 @@
         "ceiling" : "false",
         "genSky" : "false",
         "checkStay" : "false",
-        "clusterSize" : 4,
+        "clusterSize" : 6,
         "numClusters" : 1,
-        "chunkChance" : 0.3,
+        "chunkChance" : 10,
         "xVariance" : 2,
         "yVariance" : 2,
         "zVariance" : 2,
@@ -90,5 +90,33 @@
         "dimensions": [
             -1
         ]
-    }
+    },
+    "dungeon_nitroCreeper": {
+        "template" : {
+           "type" : "uniform",
+           "generator" : "dungeon",
+           "spawnEntity": "Natura.NitroCreeper",
+           "maxChests" : 5
+        },
+        "material": [
+            "netherrack",
+            "gravel",
+            "minecraft:soul_sand"
+        ],
+        "block": [
+            {"name" : "netherrack", "weight" : 1},
+            {"name" : "nether_brick", "weight" : 3}
+        ],
+        "numClusters": 1,
+        "clusterSize" : 0,
+        "minHeight" : 4,
+        "maxHeight" : 96,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+   }
 }
