@@ -9,7 +9,7 @@
         "genSky" : "false",
         "clusterSize" : 3,
         "numClusters" : 1,
-        "chunkChance" : 0.825,
+        "chunkChance" : 2,
         "xVariance" : 2,
         "yVariance" : 2,
         "zVariance" : 2,
