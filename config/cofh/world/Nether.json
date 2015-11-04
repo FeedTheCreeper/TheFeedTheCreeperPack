@@ -103,10 +103,7 @@
             "gravel",
             "minecraft:soul_sand"
         ],
-        "block": [
-            {"name" : "netherrack", "weight" : 1},
-            {"name" : "nether_brick", "weight" : 3}
-        ],
+        "block": "netherrack",
         "numClusters": 1,
         "clusterSize" : 0,
         "minHeight" : 4,
