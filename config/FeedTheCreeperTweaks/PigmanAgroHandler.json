@@ -1,5 +1,30 @@
 [
    {
       "BlockName" : "glowstone"
+   },
+   {
+      "BlockName" : "soul_sand"
+   },
+   {
+      "BlockName" : "mob_spawner"
+   },
+   {
+      "BlockName" : "ganysnether:undertaker"
+   },
+   {
+      "BlockName" : "TConstruct:SearedBrick",
+      "MetaData" : 2
+   },
+   {
+      "BlockName" : "TConstruct:SearedBrick",
+      "MetaData" : 1
+   },
+   {
+      "BlockName" : "TConstruct:ore.berries.one",
+      "MetaData" : 8
+   },
+   {
+      "BlockName" : "TConstruct:ore.berries.one",
+      "MetaData" : 11
    }
 ]
