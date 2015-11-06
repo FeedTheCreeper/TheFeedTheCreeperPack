@@ -1,5 +1,5 @@
 {
-"nether_essenceBerries": {
+"end_essenceBerries": {
         "template": "decoration",
         "block": [
             {"name": "TConstruct:ore.berries.two", "metadata": 9}
@@ -13,6 +13,86 @@
         "xVariance" : 2,
         "yVariance" : 2,
         "zVariance" : 2,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1
+        ]
+    },
+   "end_MediumViens": {
+        "template": "normal",
+        "generator" : "large-vein",
+        "block": "minecraft:end_stone",
+        "material": "air",
+        "clusterSize" : 8000,
+        "numClusters" : 1,
+        "chunkChance" : 768,
+        "meanHeight" : 96,
+        "maxVariance" : 48,
+        "sparse" : true,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1
+        ]
+    },
+   "end_massiveClouds": {
+        "template": "fractal",
+        "block": "minecraft:end_stone",
+        "material": "air",
+        "clusterSize" : 1024,
+        "numClusters" : 1,
+        "chunkChance" : 16000,
+        "minHeight" : 48,
+        "veinHeight" : 8,
+        "veinDiameter" : 8,
+        "verticalDensity" : 1,
+        "horizontalDensity" : 1,
+        "sparse" : false,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1
+        ]
+    },
+   "end_hollowGeodes": {
+        "template": "uniform",
+        "generator" : "geode",
+        "block": "minecraft:end_stone",
+        "material": "air",
+        "clusterSize" : 128,
+        "numClusters" : 1,
+        "chunkChance" : 32,
+        "minHeight" : 16,
+        "maxHeight" : 232,
+        "crust" : "minecraft:end_stone",
+        "hollow" : true,
+        "filler" : "air",
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1
+        ]
+    },
+    "end_geodes": {
+        "template": "uniform",
+        "generator" : "geode",
+        "block": "minecraft:end_stone",
+        "material": "air",
+        "clusterSize" : 128,
+        "numClusters" : 1,
+        "chunkChance" : 32,
+        "minHeight" : 16,
+        "maxHeight" : 232,
+        "crust" : "minecraft:end_stone",
         "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
