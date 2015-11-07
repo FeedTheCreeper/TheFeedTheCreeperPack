@@ -64,8 +64,15 @@ recipes.addShaped(furnaceSteel,
                    [<ore:ingotSteel>, furnaceBronze,     <ore:ingotSteel>],
                    [<ore:ingotSteel>, <ore:ingotSteel>,  <ore:ingotSteel>]]);
 
+# Duplicates of Iron Chests mod
 NEI.hide(<metallurgycm:metal_chest:*>);
 
+#make the Ore Finder craftable
+<ore:ingotDesichalkos>.add(<Metallurgy:desichalkos.ingot>);
+recipes.addShaped( <MetallurgyCore:metallurgyCore.oreFinder>,
+   [[null,                    <ore:nuggetTartarite>,  <ore:itemNetherStar>],
+    [null,                    <ore:ingotDesichalkos>, <ore:nuggetAmordrine>],
+    [<ore:ingotDesichalkos>,  null,                null]]);
 
 recipes.addShaped(<minecraft:torch>*5,
    [[<ore:dustPhosphorus>],
