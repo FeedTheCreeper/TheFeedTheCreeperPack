@@ -1,8 +1,6 @@
 ./1.7.10/[1.7.10]bspkrsCore-universal-6.16.jar
-./[1.7.10]ArmorStatusHUD-client-1.28.jar
 ./1.7.10/CodeChickenLib-1.7.10-1.1.3.138-universal.jar
-./1.7.10/commons-codec-1.9.jar
-./1.7.10/commons-compress-1.8.1.jar
+./[1.7.10]ArmorStatusHUD-client-1.28.jar
 ./[1.7.10]StatusEffectHUD-client-1.27.jar
 ./AOBD-2.8.4.jar
 ./BiblioCraft[v1.11.4][MC1.7.10].jar
@@ -30,7 +28,7 @@
 ./Farseek-1.0.10.jar
 ./FastLeafDecay-1.7.10-1.3.jar
 ./Feed the Creeper Tweaks-1.7.10-2.1.2-136-universal.jar
-./FlatSigns-1.7.10-universal-2.1.0.19 (1).jar
+./FlatSigns-1.7.10-universal-2.1.0.19.jar
 ./forestry_1.7.10-3.6.12.3.jar
 ./Ganys End-1.11.1.jar
 ./Ganys Nether-1.8.1.jar
@@ -79,5 +77,4 @@
 ./Waila-1.5.10_1.7.10.jar
 ./WailaHarvestability-mc1.7.10-1.1.3.jar
 ./WAILAPlugins-MC1.7.10-0.1.2-21.jar
-./worldedit-forge-mc1.7.10-6.0-beta-01.jar
 ./Ztones-1.7.10-2.2.1.jar
