@@ -8,7 +8,7 @@
 ./BiblioWoods[Highlands][v1.4].jar
 ./BiblioWoods[Natura][v1.5].jar
 ./Bookshelf-1.7.10-1.2.0.jar
-./buildcraft-7.1.12.jar
+./buildcraft-7.1.13.jar
 ./BuildcraftAdditions-1.7.10-2.2.3.jar
 ./buildcraft-compat-7.1.2.jar
 ./Carpenter's Blocks v3.3.7 - MC 1.7.10.jar
