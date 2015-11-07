@@ -1,7 +1,7 @@
 ********************************************************************************
 *
 *
-*  Version 3.3.0
+*  Version 4.1.0
 *
 *
 ********************************************************************************
@@ -10,354 +10,117 @@
 Mod Changes
 --------------------------------------------------------------------------------
 Updated
- · CodeChickenLib 1.1.3.127
- · ForgeMultipart 1.1.2.331
- · MrTJPCore 1.0.5.12
+ · Buildcraft 7.1.13
+ · Buildcraft Additions 2.2.3
+ · Feed the Creeper Tweaks 2.1.2
+
+--------------------------------------------------------------------------------
+Modpack Changes
+--------------------------------------------------------------------------------
+ · Gany's Surface 
+      Dislocator now requires appropriate Mining Level materials
+      Nerfed Initite Bucket (Too Much?)
+      Nerfed Planter so Progressive Automation isn't overshadowed
+ · Metallurgy 4
+      Updated Metallurgy Magical Ore Spawning
+      Ore Finder is craftable
+ · Railcraft
+      Both simple and complex recipes are now available
+ 
+
+
+********************************************************************************
+*
+*
+*  Version 4.0.0
+*
+*
+********************************************************************************
+
+Initial Release
+
+--------------------------------------------------------------------------------
+Mods
+--------------------------------------------------------------------------------
+Added
  · bspkrsCore 6.16
- · Automagy 0.22.1
- · BdLib 1.7.0.70
- · BiblioCraft 1.10.32
- · Biomes o' Plenty 2.1.0.1237
- · Blood Magic 1.3.2-1
- · Botania 1.6-181
- · BuildCraft 6.4.11
- · BuildCraft Compat 6.4.2
- · Carpenter's Blocks 3.3.6
- · Chisel 2 2.3.10.37
- · CoFH Core 3.0.2-262
- · CoFH lib 1.0.1-151
- · DragonAPI 6f
- · Ender IO 2.2.8.367
- · Ender Tech 0.3.2.382
- · Extra Utilities 1.2.3
- · Feed the Creeper Tweaks 1.0.0
- · Forestry 3.5.3.11
- · Advanced Generators 0.9.12.64
- · GeoStrata 6a
- · GraveStone 2.12.1
- · Hardcore Ender Expansion 1.8
- · Lycanite's Mobs 1.10.12.1
- · Mobius Core 1.2.5
- · NEI Addons 1.12.5.17
- · Nether Ores 2.3.0-12
- · Open Blocks 1.4.1
- · Open Mods Lib 0.7.1
- · Open Peripheral Addons 0.3.1
- · Open Peripheral Core 1.1
- · Open Peripheral Integration 0.2.1
- · Opis 1.2.5
- · Progressive Automation 1.6.14
- · Project: Red - Base 4.5.16.77
- · Project: Red - Compat 4.5.16.77
- · Project: Red - Integration 4.5.16.77
- · Project: Red - Lighting 4.5.16.77
- · Redstone Armoury 1.1-27
- · Redstone Arsenal 1.1.0-80
- · Refined Relocation 1.0.8a
- · Sanguimancy 1.1.9-26
- · Storage Drawers 1.3.9
- · Thaumcraft node Tracker 1.0.5
- · Thermal Expansion 4.0.1-182
- · Thermal Foundation 1.0.0-81
- · ttCore 0.1.1-75
- 
-Added
- · Cart Fixes 0.1.0
- · Guide API 1.0-8
- 
---------------------------------------------------------------------------------
-Mod Pack Changes
---------------------------------------------------------------------------------
- · Feed the Creeper Tweaks
-    · Progressive Automation Unbreaking Tools fix for Ender IO Farming Station
-    · Extra Utilities Ethereal Tools fixed for Ender IO Farming Station
-    · Bedrockium Tools added
-    · Starry Apple added
-    · Withers can drop Miniature Green Hearts under the right conditions
-    · TiCo Green Heart Canisters have been made craftable
- · Mekanism
-    · Carboard Box Recipe nerffed slightly
-    · Carboard Box Recipe buffed slightly
-    
-********************************************************************************
-*
-*
-*  Version 3.2.2
-*
-*
-********************************************************************************
-
---------------------------------------------------------------------------------
-Mod Pack Changes
---------------------------------------------------------------------------------
- · Applied Energistics
-    · Changed increment values to powers of two
- · CoFH Core
-    · Reverted Holding Enchant back to old Id
- · JABBA
-    · Added higher tier Structural Upgrades
- · Thermal Expansion
-    · Adjusted Caches' size values
-    
-    
-********************************************************************************
-*
-*
-*  Version 3.2.1
-*
-*
-********************************************************************************
-
---------------------------------------------------------------------------------
-Mod Pack Changes
---------------------------------------------------------------------------------
- · Ender IO
-    · Added Reversing How to Farming Station
- · Hardcore Ender Expansion
-    · Disabled April Fools' Day joke, it kept clients from joining the server
-
-********************************************************************************
-*
-*
-*  Version 3.2.0
-*
-*
-********************************************************************************
-
---------------------------------------------------------------------------------
-Mod Changes
---------------------------------------------------------------------------------
-Updated
- · Advanced Generators 0.9.11-hotfix1
- · AsieLib 0.3.9
- · Automagy 0.21
- · BDLib 1.6.5.52
- · Blood Magic 1.3.1-7
- · Botania 1.5-170
- · Buildcraft 6.4.5
- · Chisel 2 2.3.8.35
- · CodeChickenCore 1.0.4.35
- · CodeChickenLib 1.1.1.110
- · CoFH Core 3.0.0RC7-211
- · CoFH Lib 1.0.0RC7-127
- · ComputerCraft 1.73
- · DragonAPI 5c
- · EnderIO 2.2.8.349
- · EnderTech 0.3.0.364
- · Extra Utilities 1.2.2
- · Forbidden Magic 0.562
- · Forestry 3.4.0.7
- · Forge Multipart 1.1.1.320
- · Funky Locomotion Beta-5a
- · GeoStrata 5a
- · Hardcore Ender Expansion 1.7.1
- · Headcrumbs 1.3.1
- · IndustrialCraft 2 API 2.2.677
- · INpureCore 1.0.0B9-54
- · InventoryTweaks 1.59-dev-156
- · JABBA 1.2.1a
- · Lycanite's Mobs 1.10.11.5
- · Mekanism 7.1.2.185
- · Mekanism Generators 7.1.2.185
- · Mekanism Tools 1.7.2.185
- · Metallurgy 4.0.8.97
- · Modular Systems 1.7.3
- · MrTJPCore 1.0.5.11
- · NEI Addons 1.12.3.13
- · NEI Integration 1.0.7
- · Not Enough Resources 0.1.0.95
- · Opis 1.2.4a
- · Progressive Automation 1.6.4
- · Project: Red - Base 4.5.15.75
- · Project: Red - Campat 4.5.15.75
- · Project: Red - Integration 4.5.15.75
- · Project: Red - Lighting 4.5.15.75
- · Railcraft 9.5.0.0
- · Restone Armoury 1.1.22
- · Redstone Arsenal 1.1.0RC7-65
- · Refined Relocation 1.0.7g
- · Sanguimancy 1.1.9PRE-21
- · Simply Jetpacks 1.4.1
- · Storage Drawers 1.3.3
- · Thaumcraft Node Tracker 1.0.4
- · Tinkers Construct 1.8.3b
- · Thaumcraft 4.2.3.5
- · Thaumic Exploration 1.1-37
- · Thaumic Tinkerer 2.5-1.7.10-470
- · Thermal Expansion 4.0.0RC7-141
- · Thermal Foundation 1.0.0RC7-62
- · Tinkers Mechworks 0.2.14.100
- · TTCore 0.1.0-65
- · WAILA 1.5.10
- · WAILA Harvestability 1.1.2
- 
-Added
- · BuildCraft Compat 6.4.1
- · Default World Generator 0.1-b13
- · Forge Multipart Integration 1.2.2
- · ModTweaker2 0.7.1
- · More Chisels 1.0-20
- · Thaumcraft NEI Plugin 1.7
- 
-Removed 
- · ModTweaker 0.3.0
- 
---------------------------------------------------------------------------------
- Mod Pack Changes
---------------------------------------------------------------------------------
- · Biomes 'o Plenty
-    · Increased Ender Amethyst Ore gen
- · Botania
-    · Increased Mystical Flower generation 
- · Ender IO
-    · Added Nether Ores processing
-    · Ender IO machines default to Metallurgy Ore Dictionary entries
-    · Added all the hoes.
-    · Added Enderman head to ore:skullEnderman
- · Ender Tech
-   · Increased Tank size so there's a reason to use it rather than Railcraft or such
-   · Changed recipe for Redstone Exchanger to Resonant Exchanger upgrade to not require redundant Redstone Flux Capacitor
- · Hardcore Ender Expansion
-   · Added Enderman head to ore:skullEnderman
- · Headcrumbs
-   · Adjusted mobs
- · JABBA
-    · Fixed Barrel Hammer recipe
- · Lycanite's Mobs
-   · various adjustments
- · Mekanism 
-    · Added Nether Ores processing
- · More Chisels
-    · Added Mekanism recipe for Fluxed Chisel
- · Natura
-    · Decreased Dark Clouds in the End
-    · Enabled Ash and Sulphur clouds in the Nether 
- · Project: Red
-    · Silicon will now use Ore Dictionary
- · Storage Drawers
-    · Inverted clicking behavior to mimic JABBA
-    · Changed to Fancy item rendering
- · Thermal Expansion
-    · Terrain Smasher uses Diamond Pickaxe
- · Thermal Foundation
-    · Mana-Infused ore gen removed, Metallurgy Mithril adjusted to compensate
-    
---------------------------------------------------------------------------------
- Known Issues
---------------------------------------------------------------------------------    
- · Attempting to cheat in item from NEI with full inventory results in a client crash 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-********************************************************************************
-*
-*
-*  Version 3.1.1
-*
-*
-********************************************************************************
---------------------------------------------------------------------------------
- Mod Pack Changes
---------------------------------------------------------------------------------
-  · Deceased Blood Moon chance and allow sleeping through it.
-  · Highlands & Biomes o' Plenty biome IDs added to Growthcraft for Bamboo, Bees and Fishtrap compatibility
-  · Corrected issue in Nether with EnderIO attempting to infinitely spawn Wither Skeletons
-  · Correct Open Blocks' Elevator's ability to pass through blocks
-  
-  
-  
-********************************************************************************
-*
-*
-*  Version 3.1.0
-*
-*
-********************************************************************************
-
---------------------------------------------------------------------------------
-Mod Changes
---------------------------------------------------------------------------------
-Updated
- · Advanced Generators 0.9.9.46
- · Another One Bites the Dust 2.4.0
- · Applied Energistics 2 RV2-Beta8
- · AsieLib 0.3.8
- · Automagy 0.18
- · BDLib 1.6.3.49
- · Bibliocraft 1.9.2
- · Biomes o' Plenty 2.1.0.1057
- · Blood Magic 1.3.0B-3
- · Buildcraft 6.3.4
- · Botania R1.4-159
- · Chisel 2.3.7.34
- · Carpenter's Blocks 3.3.5
+ · CodeChickenLib 1.1.3.138
+ · ArmorStatusHUD 1.28
+ · StatusEffectHUD 1.27
+ · Another One Bites the Dust 2.8.4
+ · BiblioCraft 1.11.4
+ · BiblioWoods[Forestry] 1.7
+ · BiblioWoods[Highlands] 1.4
+ · BiblioWoods[Natura] 1.5
+ · Bookshelf 1.2.0
+ · Buildcraft 7.1.12
+ · Buildcraft Additions 2.2.2
+ · Buildcraft Compat-7.1.2
+ · Carpenter's Blocks v3.3.7
+ · Cave Control V9a
+ · Chisel 2.9.3.9
+ · CodeChickenCore 1.0.7.47
+ · CoFH Core 3.0.3-303
+ · CoFH Tweaks .0.1-37
+ · Dr. Cyanos Lootable Bodies 1.3.6
  · Damage Indicators 3.2.3
- · DragonAPI 4c
- · EnderIO 2.2.7.331
- · Geostrata 4a
- · Gravestone 2.11.3
- · Headcrumbs 1.3.0
+ · Deadly World 1.0.2
+ · DragonAPI V9b
+ · EnderCore 0.2.0.30_beta
+ · Ender Storage 1.4.7.37
+ · Eureka 3.0.2
+ · Extra TiC 1.4.5
+ · Farseek 1.0.10
+ · Fast Leaf Decay 1.3
+ · Feed the Creeper Tweaks 2.1.1
+ · Flat Signs2.1.0.19
+ · Forestry 3.6.12.3
+ · Ganys End 1.11.1
+ · Ganys Nether 1.8.1
+ · Ganys Surface 1.12.6
+ · GeoStrata V9a
+ · GrowthcraftCE 2.3.1
+ · Hardcore Wither 1.0.0
+ · Headcrumbs 1.6.2
  · Highlands 2.2.3
- · IndustrialCraft 2 API 2.2.667
- · InpureCore 1.0.0B8-49
- · JABBA 1.2.1
- · Lycanite's Mobs 1.10.10.1
- · Mekanism 7.1.1.145
- · Mekanism Generators 7.1.1.145
- · Mekanism Tools 7.1.1.145
- · Modular Systyems 1.7.1
- · Not Enough Items 1.0.4.83
- · NEI Integration 1.0.6
+ · Hopper Ducts 1.3.2
+ · Tobbenpotter's Icarus 1.0.6-hotfix
+ · Iguana's Tinker Tweaks 2.1.5
+ · Immibis Core 59.1.2
+ · INpureCore 1.0.0B9-62
+ · InventoryTweaks 1.58-147
+ · Iron Chest 6.0.60.741
+ · Jabba 1.2.1a
+ · Mantle 0.3.2b
+ · Metallurgy 4 4.0.8.97
+ · Metallurgy Chisel 1.0.0.11
+ · Metallurgy Classic Machines 1.0.2.72
+ · MetallurgyCore 4.0.4.18
+ · Mine Tweaker 3 3.0.10B
+ · MobiusCore 1.2.5
+ · Modular Systems 2.2.1
+ · Natura 2.2.0.1
+ · NEI Addons 1.12.14.40
+ · NEI Integration 1.0.12
+ · Nether Ores 2.3.0-12
+ · Not Enough Items 1.0.5.118
+ · Not Enough Wands 1.2.2
+ · Opis 1.7.10
  · Ore Dictionary Converter 1.6.1
- · Progressive Automation 1.5.18
- · Random Things 2.2.4
- · Refined Relocation 1.0.7D
- · Status Effects HUD 1.27
- · Steve's Factory Manager A93
- · Storage Drawers 1.2.3
- · Tinkers Construct 1.8.2A
- · Thaumcraft 4.2.3.4
- · Thaumic Tinkerer 2.5-1.7.10-439
- · ttCore 0.1.0-61
- · WAILA 1.5.9
- · WAILA Plugins 0.0.1-13
- 
- Removed:
-  · ModTweaker
-  
-Added:
- · ModTweaker 2 0.3.0
- · Open Peripheral Addons 0.2.0-145
- · Open Peripheral Core 0.5.0-179
- · Open Peripheral Integration 0.1.0-25
- · Thaumcraft Node Tracker 1.0.3
- · Tinkers' Tooltips 1.2.3
- 
- --------------------------------------------------------------------------------
- Mod Pack Changes
- --------------------------------------------------------------------------------
-  · Ore Generation has changes significantly. Most ores are now in narrower bands. Deep Dark ore gen is buffed above that of the Overworld, and Y-values are scaled to the height of the cavern floor. Metallurgy Fantasy Ores in Deep Dark have been moved to an inverted Y-position so that they aren't clogging up quarries constantly. Nether Ore Gen was adjusted she Y-values of ores were scaled so that they resembled the Overworld ore, if the Nether Roof was Sea Level.
- · Many Metallurgy Utility Ores have been given more uses, like for torches, or as fuel.
- · EnderIO Powered Spawner power consumption was scalled for Lycanites Mobs to better reflect the value of their drops.
- · Time Torch recipe updated to require End Game magic mod materials.
- · Rotten Flesh can now be smelted to Leather
- · Boimes o' Plenty's dirt blocks can now be used in an Ore Dictionary Converter
- · Boimes o' Plenty's grasses can now be used in an Ore Dictionary Converter
- · Open Blocks Elevator can not pass through any blocks and has a range of 32.
- · All ores are set to be able to replace GeoStrata rocks, dirt, gravel, & sandstone for better retrogen.
- · Chisel Marble, Granite, and Limestone generation disabled; GeoStrata versions can be used in a Chisel.
- · Lycanites Mobs spawning changed so that all spawn types will respect Magnum Torches,  Chandeliers, etc.
- · Dungeon Pack dungeons are more rare
- · Gravestone Mod Catacombs are more rare
- · Players will drop their head upon death
- · Mekanism machine volume decreased
- · Mekanism Salination Plant Brine output Buffed, and the Salination Block recipe was correspondingly nerffed.
- · Crafting recipe added for Chiselled Stone Bricks, was previously overwritten by ttCore
- · 
- 
+ · Progressive Automation 1.6.27
+ · Railcraft 9.8.0.0
+ · Red Logic 59.1.11
+ · Refined Relocation 1.1.12
+ · Roguelike Dungeons 1.3.6.3
+ · Steves Workshop 0.5.1
+ · Storage Drawers 1.6.2
+ · Streams 0.1.6
+ · Tinkers' Construct 1.8.8
+ · The Tool Tooltip Tool 0.2.0
+ · TiC Tooltips 1.2.5
+ · Tinkers' Mechworks 0.2.8
+ · WAILA 1.5.10
+ · WAILA Harvestability 1.1.3
+ · WAILA Plugins 0.1.2-21
+ · Ztones 2.2.1
+
