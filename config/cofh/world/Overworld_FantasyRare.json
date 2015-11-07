@@ -1,5 +1,5 @@
 {
-   "overworld_prometheum": {
+   "overworld_prometheumRare": {
         "template": "uniform",
         "block": "Metallurgy:fantasy.ore",
          "material": [
@@ -26,11 +26,11 @@
         ],
         "clusterSize": 6,
         "numClusters": 5,
-        "chunkChance": 1,
+        "chunkChance": 1000,
         "minHeight": 32,
         "maxHeight": 128,
         "retrogen": "false",
-        "biomeRestriction": "whitelist",
+        "biomeRestriction": "blacklist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
         ],
@@ -39,7 +39,7 @@
             0
          ]
     },
-    "overworld_deepiron": {
+    "overworld_deepironRare": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -68,11 +68,11 @@
         ],
         "clusterSize": 4,
         "numClusters": 5,
-        "chunkChance": 1,
+        "chunkChance": 1000,
         "minHeight": 0,
         "maxHeight": 72,
         "retrogen": "false",
-        "biomeRestriction": "whitelist",
+        "biomeRestriction": "blacklist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
         ],
@@ -81,7 +81,7 @@
             0
          ]
     },    
-    "overworld_infuscolium": {
+    "overworld_infuscoliumRare": {
         "template": "normal",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -110,11 +110,11 @@
         ],
         "clusterSize": 4,
         "numClusters": 5,
-        "chunkChance": 1,
+        "chunkChance": 1000,
         "meanHeight": 58,
         "maxVariance": 12,
         "retrogen": "false",
-        "biomeRestriction": "whitelist",
+        "biomeRestriction": "blacklist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
         ],
@@ -123,7 +123,7 @@
             0
          ]
     },    
-    "overworld_oureclase": {
+    "overworld_oureclaseRare": {
         "template": "normal",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -152,11 +152,11 @@
         ],
         "clusterSize": 3,
         "numClusters": 4,
-        "chunkChance": 1,
+        "chunkChance": 1000,
         "meanHeight": 48,
         "maxVariance": 13,
         "retrogen": "false",
-        "biomeRestriction": "whitelist",
+        "biomeRestriction": "blacklist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
         ],
@@ -165,7 +165,7 @@
             0
          ]
     },    
-    "overworld_astralsilver": {
+    "overworld_astralsilverRare": {
         "template": "normal",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -194,13 +194,13 @@
         ],
         "clusterSize": 3,
         "numClusters": 4,
-        "chunkChance": 1,
+        "chunkChance": 1000,
         "meanHeight": 32,
         "maxVariance": 12,
         "verticalDensity":5,
         "horizontalDensity":5,
         "retrogen": "false",
-        "biomeRestriction": "whitelist",
+        "biomeRestriction": "blacklist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
         ],
@@ -209,7 +209,7 @@
             0
          ]
     },    
-    "overworld_carmot": {
+    "overworld_carmotRare": {
         "template": "normal",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -238,11 +238,11 @@
         ],
         "clusterSize": 5,
         "numClusters": 3,
-        "chunkChance": 1,
+        "chunkChance": 1000,
         "meanHeight": 20,
         "maxVariance": 10,
         "retrogen": "false",
-        "biomeRestriction": "whitelist",
+        "biomeRestriction": "blacklist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
         ],
@@ -251,7 +251,7 @@
             0
          ]
     },    
-    "overworld_mithril": {
+    "overworld_mithrilRare": {
         "template": "normal",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -280,11 +280,11 @@
         ],
         "clusterSize": 6,
         "numClusters": 9,
-        "chunkChance": 1,
+        "chunkChance": 1000,
         "meanHeight": 12,
         "maxVariance": 6,
         "retrogen": "false",
-        "biomeRestriction": "whitelist",
+        "biomeRestriction": "blacklist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
         ],
@@ -293,7 +293,7 @@
             0
          ]
     },    
-    "overworld_rubracium": {
+    "overworld_rubraciumRare": {
         "template": "normal",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -322,11 +322,11 @@
         ],
         "clusterSize": 3,
         "numClusters": 2,
-        "chunkChance": 1,
+        "chunkChance": 1000,
         "meanHeight": 32,
         "maxVariance": 12,
         "retrogen": "false",
-        "biomeRestriction": "whitelist",
+        "biomeRestriction": "blacklist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
         ],
@@ -335,7 +335,7 @@
             0
          ]
     },    
-    "overworld_orichalcum": {
+    "overworld_orichalcumRare": {
         "template": "normal",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -364,11 +364,11 @@
         ],
         "clusterSize": 4,
         "numClusters": 2,
-        "chunkChance": 1,
+        "chunkChance": 1000,
         "meanHeight": 8,
         "maxVariance": 4,
         "retrogen": "false",
-        "biomeRestriction": "whitelist",
+        "biomeRestriction": "blacklist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
         ],
@@ -377,7 +377,7 @@
             0
          ]
     },    
-    "overworld_adamantine": {
+    "overworld_adamantineRare": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -406,11 +406,11 @@
         ],
         "clusterSize": 3,
         "numClusters": 2,
-        "chunkChance": 5,
+        "chunkChance": 1000,
         "minHeight": 3,
         "maxHeight": 9,
         "retrogen": "false",
-        "biomeRestriction": "whitelist",
+        "biomeRestriction": "blacklist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
         ],
@@ -419,7 +419,7 @@
             0
          ]
     },    
-    "overworld_atlarus": {
+    "overworld_atlarusRare": {
         "template": "uniform",
         "block": {
             "name": "Metallurgy:fantasy.ore",
@@ -448,11 +448,11 @@
         ],
         "clusterSize": 3,
         "numClusters": 2,
-        "chunkChance": 1,
+        "chunkChance": 1000,
         "minHeight": 3,
         "maxHeight": 9,
         "retrogen": "false",
-        "biomeRestriction": "whitelist",
+        "biomeRestriction": "blacklist",
         "biomes":[
             {"type": "dictionary", "entry": "MAGICAL"}
         ],

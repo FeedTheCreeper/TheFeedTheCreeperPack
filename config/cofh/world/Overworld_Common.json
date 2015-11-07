@@ -396,9 +396,9 @@
         "meanHeight": 58,
         "maxVariance": 7,
         "retrogen": "false",
-        "biomeRestriction": "none",
-        "biomes": [
-            "all"
+        "biomeRestriction": "blacklist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
         ],
         "dimensionRestriction": "whitelist",
         "dimensions": [
@@ -443,8 +443,9 @@
         "maxVariance": 14,
         "retrogen": "false",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
+        "biomeRestriction": "blacklist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
         ],
         "dimensionRestriction": "whitelist",
         "dimensions": [
@@ -483,8 +484,10 @@
         "meanHeight": 24,
         "maxVariance": 6,
         "retrogen": "false",
-        "biomeRestriction": "none",
-        "biomes": [],
+        "biomeRestriction": "blacklist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
+        ],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0
@@ -527,8 +530,10 @@
         "minHeight": 64,
         "maxHeight": 192,
         "retrogen": "false",
-        "biomeRestriction": "none",
-        "biomes": [],
+        "biomeRestriction": "blacklist",
+        "biomes":[
+            {"type": "dictionary", "entry": "MAGICAL"}
+        ],
         "dimensionRestriction": "whitelist",
         "dimensions": [
            0
