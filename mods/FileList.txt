@@ -1,0 +1,80 @@
+1.7.10/[1.7.10]bspkrsCore-universal-6.16.jar
+1.7.10/CodeChickenLib-1.7.10-1.1.3.138-universal.jar
+[1.7.10]ArmorStatusHUD-client-1.28.jar
+[1.7.10]StatusEffectHUD-client-1.27.jar
+AOBD-2.8.4.jar
+BiblioCraft[v1.11.4][MC1.7.10].jar
+BiblioWoods[Forestry][v1.7].jar
+BiblioWoods[Highlands][v1.4].jar
+BiblioWoods[Natura][v1.5].jar
+Bookshelf-1.7.10-1.2.0.jar
+buildcraft-7.1.12.jar
+BuildcraftAdditions-1.7.10-2.2.2.jar
+buildcraft-compat-7.1.2.jar
+Carpenter's Blocks v3.3.7 - MC 1.7.10.jar
+CaveControl 1.7.10 V9a.jar
+Chisel-2.9.3.9.jar
+CodeChickenCore-1.7.10-1.0.7.47-universal.jar
+CoFHCore-[1.7.10]3.0.3-303.jar
+CoFHTweaks-[1.7.10]1.0.1-37.jar
+CyanosLootableBodies-1.7.10-backport_1.3.6.jar
+Damage-Indicators-Mod-1.7.10.jar
+DeadlyWorld-1.7.10-1.0.2.jar
+DragonAPI 1.7.10 V9b.jar
+EnderCore-1.7.10-0.2.0.30_beta.jar
+EnderStorage-1.7.10-1.4.7.37-universal.jar
+Eureka-1.7.10-3.0.2.jar
+ExtraTiC-1.7.10-1.4.5.jar
+Farseek-1.0.10.jar
+FastLeafDecay-1.7.10-1.3.jar
+Feed the Creeper Tweaks-1.7.10-2.1.1-135-universal.jar
+FlatSigns-1.7.10-universal-2.1.0.19.jar
+forestry_1.7.10-3.6.12.3.jar
+Ganys End-1.11.1.jar
+Ganys Nether-1.8.1.jar
+Ganys Surface-1.12.6.jar
+GeoStrata 1.7.10 V9a.jar
+growthcraft-1.7.10-2.3.1-complete.jar
+Hardcore Wither-1.7.10-1.0.0-3-universal.jar
+Headcrumbs-1.6.2.jar
+Highlands-1.7.2-v-2.2.3.jar
+hopperductmod-1.7.10-1.3.2.jar
+Icarus-1.0.6-hotfix.jar
+IguanaTinkerTweaks-1.7.10-2.1.5.jar
+immibis-core-59.1.2.jar
+INpureCore-[1.7.10]1.0.0B9-62.jar
+InventoryTweaks-1.58-147.jar
+ironchest-1.7.10-6.0.60.741-universal.jar
+Jabba-1.2.1a_1.7.10.jar
+Mantle-1.7.10-0.3.2b.jar
+Metallurgy-1.7.10-4.0.8.97.jar
+MetallurgyChisel-1.7.10-1.0.0.11.jar
+MetallurgyClassicMachines-1.7.10-1.0.2.72.jar
+MetallurgyCore-1.7.10-4.0.4.18.jar
+MineTweaker3-1.7.10-3.0.10B.jar
+MobiusCore-1.2.5_1.7.10.jar
+ModularSystems-1.7.10-2.2.1.jar
+natura-1.7.10-2.2.0.1.jar
+neiaddons-1.12.14.40-mc1.7.10.jar
+NEIIntegration-MC1.7.10-1.0.12.jar
+NetherOres-[1.7.10]2.3.0-12.jar
+NotEnoughItems-1.7.10-1.0.5.118-universal.jar
+notenoughwands-1.2.2.jar
+Opis-1.2.5_1.7.10.jar
+OreDictionaryConverter-1.6.1.jar
+ProgressiveAutomation-1.7.10-1.6.27.jar
+Railcraft_1.7.10-9.8.0.0.jar
+redlogic-59.1.11.jar
+RefinedRelocation-mc1.7.10-1.1.12.jar
+roguelike-1.7.10-1.3.6.3.jar
+StevesWorkshop-0.5.1.jar
+StorageDrawers-1.7.10-1.6.2.jar
+Streams-0.1.6.jar
+TConstruct-1.7.10-1.8.8.jar
+TheToolTooltipTool-1.7.10-0.2.0-4-universal.jar
+TiCTooltips-mc1.7.10-1.2.5.jar
+TMechworks_mc1.7.10_0.2.8.jar
+Waila-1.5.10_1.7.10.jar
+WailaHarvestability-mc1.7.10-1.1.3.jar
+WAILAPlugins-MC1.7.10-0.1.2-21.jar
+Ztones-1.7.10-2.2.1.jar
