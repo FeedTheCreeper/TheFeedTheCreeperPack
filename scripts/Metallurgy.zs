@@ -147,3 +147,56 @@ recipes.removeShaped(<minecraft:bucket>,
     [<ore:ingotAluminumBrass>, null]]);
 
 
+<Metallurgy:metallurgy.adamantine.chestplate>.addTooltip(format.blue("Invulnerable"));
+<Metallurgy:metallurgy.adamantine.chestplate>.addTooltip(format.darkGrey("Chance when hit to not consume durability"));
+<Metallurgy:metallurgy.adamantine.helmet>.addTooltip(format.blue("Invulnerable"));
+<Metallurgy:metallurgy.adamantine.helmet>.addTooltip(format.darkGrey("Chance when hit to not consume durability"));
+<Metallurgy:metallurgy.adamantine.leggings>.addTooltip(format.blue("Invulnerable"));
+<Metallurgy:metallurgy.adamantine.leggings>.addTooltip(format.darkGrey("Chance when hit to not consume durability"));
+<Metallurgy:metallurgy.adamantine.boots>.addTooltip(format.blue("Invulnerable"));
+<Metallurgy:metallurgy.adamantine.boots>.addTooltip(format.darkGrey("Chance when hit to not consume durability"));
+
+<Metallurgy:metallurgy.amordrine.chestplate>.addTooltip(format.blue("Rejuvenating"));
+<Metallurgy:metallurgy.amordrine.chestplate>.addTooltip(format.darkGrey("Slow regen while worn"));
+<Metallurgy:metallurgy.amordrine.helmet>.addTooltip(format.blue("Rejuvenating"));
+<Metallurgy:metallurgy.amordrine.helmet>.addTooltip(format.darkGrey("Slow regen while worn"));
+<Metallurgy:metallurgy.amordrine.leggings>.addTooltip(format.blue("Rejuvenating"));
+<Metallurgy:metallurgy.amordrine.leggings>.addTooltip(format.darkGrey("Slow regen while worn"));
+<Metallurgy:metallurgy.amordrine.boots>.addTooltip(format.blue("Rejuvenating"));
+<Metallurgy:metallurgy.amordrine.boots>.addTooltip(format.darkGrey("Slow regen while worn"));
+
+<Metallurgy:metallurgy.atlarus.chestplate>.addTooltip(format.blue("Strengthening"));
+<Metallurgy:metallurgy.atlarus.chestplate>.addTooltip(format.darkGrey("Increases base melee damage"));
+<Metallurgy:metallurgy.atlarus.helmet>.addTooltip(format.blue("Strengthening"));
+<Metallurgy:metallurgy.atlarus.helmet>.addTooltip(format.darkGrey("Increases base melee damage"));
+<Metallurgy:metallurgy.atlarus.leggings>.addTooltip(format.blue("Strengthening"));
+<Metallurgy:metallurgy.atlarus.leggings>.addTooltip(format.darkGrey("Increases base melee damage"));
+<Metallurgy:metallurgy.atlarus.boots>.addTooltip(format.blue("Strengthening"));
+<Metallurgy:metallurgy.atlarus.boots>.addTooltip(format.darkGrey("Increases base melee damage"));
+
+<Metallurgy:metallurgy.celenegil.chestplate>.addTooltip(format.blue("Healthy"));
+<Metallurgy:metallurgy.celenegil.chestplate>.addTooltip(format.darkGrey("Increases base health"));
+<Metallurgy:metallurgy.celenegil.helmet>.addTooltip(format.blue("Healthy"));
+<Metallurgy:metallurgy.celenegil.helmet>.addTooltip(format.darkGrey("Increases base health"));
+<Metallurgy:metallurgy.celenegil.leggings>.addTooltip(format.blue("Healthy"));
+<Metallurgy:metallurgy.celenegil.leggings>.addTooltip(format.darkGrey("Increases base health"));
+<Metallurgy:metallurgy.celenegil.boots>.addTooltip(format.blue("Healthy"));
+<Metallurgy:metallurgy.celenegil.boots>.addTooltip(format.darkGrey("Increases base health"));
+
+<Metallurgy:metallurgy.ceruclase.chestplate>.addTooltip(format.blue("Fluid"));
+<Metallurgy:metallurgy.ceruclase.chestplate>.addTooltip(format.darkGrey("Chance to slow foe when hit"));
+<Metallurgy:metallurgy.ceruclase.helmet>.addTooltip(format.blue("Fluid"));
+<Metallurgy:metallurgy.ceruclase.helmet>.addTooltip(format.darkGrey("Chance to slow foe when hit"));
+<Metallurgy:metallurgy.ceruclase.leggings>.addTooltip(format.blue("Fluid"));
+<Metallurgy:metallurgy.ceruclase.leggings>.addTooltip(format.darkGrey("Chance to slow foe when hit"));
+<Metallurgy:metallurgy.ceruclase.boots>.addTooltip(format.blue("Fluid"));
+<Metallurgy:metallurgy.ceruclase.boots>.addTooltip(format.darkGrey("Chance to slow foe when hit"));
+
+<Metallurgy:metallurgy.ignatius.chestplate>.addTooltip(format.blue("Immolating"));
+<Metallurgy:metallurgy.ignatius.chestplate>.addTooltip(format.darkGrey("Chance to ignite foes when hit"));
+<Metallurgy:metallurgy.ignatius.helmet>.addTooltip(format.blue("Immolating"));
+<Metallurgy:metallurgy.ignatius.helmet>.addTooltip(format.darkGrey("Chance to ignite foes when hit"));
+<Metallurgy:metallurgy.ignatius.leggings>.addTooltip(format.blue("Immolating"));
+<Metallurgy:metallurgy.ignatius.leggings>.addTooltip(format.darkGrey("Chance to ignite foes when hit"));
+<Metallurgy:metallurgy.ignatius.boots>.addTooltip(format.blue("Immolating"));
+<Metallurgy:metallurgy.ignatius.boots>.addTooltip(format.darkGrey("Chance to ignite foes when hit"));
