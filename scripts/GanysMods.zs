@@ -28,3 +28,10 @@ recipes.addShaped(<ganyssurface:planter>,
     [<ore:blockWoolGreen>, <ganyssurface:blockDetector:*>,  <ore:blockWoolGreen>], 
     [null,                 <ore:blockHopper>,               null]]);
 
+
+<ore:fenceWood>.add(<ganyssurface:fence_0>);
+<ore:fenceWood>.add(<ganyssurface:fence_1>);
+<ore:fenceWood>.add(<ganyssurface:fence_2>);
+<ore:fenceWood>.add(<ganyssurface:fence_3>);
+<ore:fenceWood>.add(<ganyssurface:fence_4>);
+<ore:fenceWood>.add(<ganyssurface:fence_5>);
