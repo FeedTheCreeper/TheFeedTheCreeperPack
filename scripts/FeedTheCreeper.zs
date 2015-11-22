@@ -23,3 +23,8 @@ recipes.addShaped(<BuildCraft|Builders:machineBlock>,
     [<ore:gearGold>,    <ore:gearIron>,         <ore:gearGold>], 
     [<ore:gearDiamond>, <ore:pickAutomation>,   <ore:gearDiamond>]]);
 
+recipes.remove(<BuildCraft|Factory:miningWellBlock>);
+recipes.addShaped(<BuildCraft|Factory:miningWellBlock>, 
+   [[<ore:ingotIron>,   <ore:dustRedstone>,     <ore:ingotIron>],
+    [<ore:ingotIron>,   <ore:gearIron>,         <ore:ingotIron>],
+    [<ore:ingotIron>,   <ore:pickAutomation>,   <ore:ingotIron>]]);
