@@ -1,6 +1,33 @@
 ********************************************************************************
 *
 *
+*  Version 4.1.1
+*
+*
+********************************************************************************
+
+--------------------------------------------------------------------------------
+Modpack Changes
+--------------------------------------------------------------------------------
+ · Buildcraft
+      Fix Quarry and Mining Well-bypassing Mining Level progression
+ · Ender Storage
+      Made recipes require Endium instead of Ender Pearl
+ · JABBA
+      Changed to use ore:fenceWood
+ · Metallurgy 4
+      Expand Mining Level Progression Manyullyn->Vulcanite->Sanguinite->Amordrine->Eximite->Desichalkos
+ · Metallurgy Classic Machines
+      Corrected Furnaces' and Crushers' balance
+ · Not Enough Wands
+      Decreased dungeon loot chance
+ · Railcraft
+      Enable Steel production
+
+
+********************************************************************************
+*
+*
 *  Version 4.1.0
 *
 *
