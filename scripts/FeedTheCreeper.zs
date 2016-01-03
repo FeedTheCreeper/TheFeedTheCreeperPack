@@ -1,3 +1,5 @@
+import mods.nei.NEI;
+
 furnace.addRecipe(<minecraft:leather>, <minecraft:rotten_flesh>);
 
 <ore:blockGrass>.add(<minecraft:grass>);
@@ -14,6 +16,9 @@ recipes.addShaped( <minecraft:stonebrick:3> * 2, [
 <ore:pickAutomation>.add(<Metallurgy:desichalkos.pickaxe>);
 <ore:pickAutomation>.add(<ganysend:endiumPickaxe>);
 <ore:pickAutomation>.add(<ganysend:reinforcedEndiumPickaxe>);
+
+recipes.remove(<BuildCraft|Factory:autoWorkbenchBlock>);
+NEI.hide(<BuildCraft|Factory:autoWorkbenchBlock>);
 
 # Update the Quarry to use a higher Mining Level Pickaxe
 
