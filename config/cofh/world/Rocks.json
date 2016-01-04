@@ -5,11 +5,10 @@
         "material": [
          {"name": "stone"},
          {"name": "dirt"},
-         {"name": "gravel"},
-         {"name": "sandstone"}
+         {"name": "gravel"}
         ],
-        "clusterSize": 10,
-        "numClusters": 6,
+        "clusterSize": 16,
+        "numClusters": 5,
         "minHeight": 32,
         "maxHeight": 192,
         "retrogen": "false",
@@ -17,8 +16,7 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0,
-            -100
+            0
         ]
     },
     "diorite": {
@@ -28,10 +26,9 @@
          {"name": "stone"},
          {"name": "dirt"},
          {"name": "gravel"},
-         {"name": "sandstone"}
         ],
-        "clusterSize": 10,
-        "numClusters": 6,
+        "clusterSize": 16,
+        "numClusters": 5,
         "minHeight": 32,
         "maxHeight": 192,
         "retrogen": "false",
@@ -39,8 +36,7 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0,
-            -100
+            0
         ]
     }
 }
