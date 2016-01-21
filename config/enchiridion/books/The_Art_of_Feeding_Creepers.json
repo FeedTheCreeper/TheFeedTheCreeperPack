@@ -1,0 +1,220 @@
+{
+  "book": [
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Art of Feeding Creepers",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 26,
+            "yPos": 18,
+            "width": 171.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "If you waited until it got dark to read this, I hope you know what you are doing.\n\nThis world will kill you. Now, it\u0027s not as soul-crushingly hard to survive in as some others, but still, watch out.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 26,
+            "yPos": 39,
+            "width": 155.0,
+            "height": 155.0
+          }
+        }
+      ],
+      "pageName": "Table of Contents"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Getting Started",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 26,
+            "yPos": 16,
+            "width": 162.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "You\u0027ve probably noticed by now that Zombies and Skeletons seem to have gotten their hands on better armour and weapons than usual. You\u0027ll probably want to pay attention to that.\n\nYou may have also noticed that the tools are different. You\u0027ll want to look into Iguana\u0027s Tinker Tweaks if you don\u0027t know what to do.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 26,
+            "yPos": 35,
+            "width": 167.0,
+            "height": 153.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Mining",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 222,
+            "yPos": 16,
+            "width": 167.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Generally speaking, the deeper ou go, the better the ores, and the more deadly the caves. NEI can provide more information about ore generation.\n\nNote that some ores, particularly magical ones are more likely to be found in magical biomes.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 222,
+            "yPos": 37,
+            "width": 175.0,
+            "height": 150.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Tool Mining Levels",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 26,
+            "yPos": 16,
+            "width": 170.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "You should beware that the default Iguana\u0027s Tinker Tweaks tool Mining Levels have been expanded upon in this world.\n\nStone\nCopper\nIron\nBronze\nSteel\nObsidian\nArdite\nCobalt\nManyullyn\nVulcanite\nSanguinite\nEximite\nDesichalkos",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 26,
+            "yPos": 33,
+            "width": 170.0,
+            "height": 159.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Nether",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 222,
+            "yPos": 16,
+            "width": 172.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Nether may be somewhat more dangerous than expected. Be aware that the Zombie Pigmen are extra jealous.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 222,
+            "yPos": 31,
+            "width": 173.0,
+            "height": 159.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Wither",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF080000",
+            "xPos": 26,
+            "yPos": 16,
+            "width": 166.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Wither will be harder than usual, and may not behave as expected.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 26,
+            "yPos": 34,
+            "width": 168.0,
+            "height": 160.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Feed the Creeper Things",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 222,
+            "yPos": 16,
+            "width": 176.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The Cobble Popper \nWill produce Cobblestone when adjacent to Water and Lava, and provided with a Redstone signal.\n\nWithered Tools\nAre Simply Unbreakable™\n\nMicro Fuel\nProvide tiny amounts of fuel for tiny tasks.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 222,
+            "yPos": 33,
+            "width": 177.0,
+            "height": 155.0
+          }
+        }
+      ],
+      "pageName": ""
+    }
+  ],
+  "uniqueName": "The_Art_of_Feeding_Creepers",
+  "color": 1315922,
+  "showBackground": true,
+  "showArrows": true,
+  "showNumber": true,
+  "iconPass1": "",
+  "iconPass2": "",
+  "iconColorisePass1": true,
+  "iconColorisePass2": false,
+  "iconColorPass1": 6,
+  "iconColorPass2": 0,
+  "language": "en_US",
+  "displayName": "The Art of Feeding Creepers",
+  "displayInCreative": true
+}
