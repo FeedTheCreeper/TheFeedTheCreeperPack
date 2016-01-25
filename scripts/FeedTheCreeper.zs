@@ -27,6 +27,12 @@ NEI.hide(<BuildCraft|Factory:autoWorkbenchBlock>);
 <ore:ingotAutomation>.add(<Metallurgy:desichalkos.ingot>);
 <ore:ingotAutomation>.add(<ganysend:endiumIngot>);
 
+<ore:nuggetAutomation>.add(<Metallurgy:fantasy.nugget:15>); #Tartarite
+<ore:nuggetAutomation>.add(<Metallurgy:nether.nugget:9>);   #Sanguinite
+<ore:nuggetAutomation>.add(<Metallurgy:ender.nugget>);      #Eximite
+<ore:nuggetAutomation>.add(<Metallurgy:ender.nugget:2>);    #Desichalkos
+<ore:nuggetAutomation>.add(<ganysend:endiumIngot:1>);
+
 recipes.remove(<ganyssurface:obsidianHead>);
 recipes.addShaped(<ganyssurface:obsidianHead>, 
    [[null,                 <ore:blockObsidian>,    null], 
@@ -45,9 +51,27 @@ recipes.remove(<BuildCraft|Factory:miningWellBlock>);
 NEI.hide(<BuildCraft|Factory:miningWellBlock>);
 
 recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsstripes>);
-recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsstripes>,
+recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsstripes> * 8,
    [[null,           <ore:ingotAutomation>,     null],
     [<ore:gearGold>, <ore:blockGlassColorless>, <ore:gearGold>],
     [null,           <ore:ingotAutomation>,     null]]);
 
+
+recipes.remove(<Railcraft:borehead.diamond>);
+recipes.addShaped(<Railcraft:borehead.diamond>, 
+   [[<ore:nuggetAutomation>,  <ore:nuggetAutomation>, <ore:nuggetAutomation>], 
+    [<ore:nuggetAutomation>,  <ore:blockDiamond>,     <ore:nuggetAutomation>], 
+    [<ore:nuggetAutomation>,  <ore:nuggetAutomation>, <ore:nuggetAutomation>]]);
+
+recipes.remove(<Railcraft:borehead.steel>);
+recipes.addShaped(<Railcraft:borehead.steel>, 
+   [[<ore:nuggetAutomation>,  <ore:nuggetAutomation>, <ore:nuggetAutomation>], 
+    [<ore:nuggetAutomation>,  <ore:blockSteel>,     <ore:nuggetAutomation>], 
+    [<ore:nuggetAutomation>,  <ore:nuggetAutomation>, <ore:nuggetAutomation>]]);
+
+recipes.remove(<Railcraft:borehead.iron>);
+recipes.addShaped(<Railcraft:borehead.iron>, 
+   [[<ore:nuggetAutomation>,  <ore:nuggetAutomation>, <ore:nuggetAutomation>], 
+    [<ore:nuggetAutomation>,  <ore:blockIron>,     <ore:nuggetAutomation>], 
+    [<ore:nuggetAutomation>,  <ore:nuggetAutomation>, <ore:nuggetAutomation>]]);
 
