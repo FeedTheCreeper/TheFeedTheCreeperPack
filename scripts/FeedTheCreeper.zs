@@ -11,6 +11,11 @@ recipes.addShaped( <minecraft:stonebrick:3> * 2, [
    [<ore:slabStoneBricks>, <ore:slabStoneBricks>]]);
 
 
+var artOfFeedingCreepers = <Enchiridion2:book>.withTag({identifier: "The_Art_of_Feeding_Creepers"});
+
+recipes.addShapeless(artOfFeedingCreepers, [<ore:skullPlayer>, <minecraft:paper>]);
+
+
 recipes.remove(<BuildCraft|Factory:autoWorkbenchBlock>);
 NEI.hide(<BuildCraft|Factory:autoWorkbenchBlock>);
 

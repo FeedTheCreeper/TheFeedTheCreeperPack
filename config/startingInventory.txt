@@ -1,0 +1,2 @@
+Enchiridion2:book,1,0,{identifier:"The_Art_of_Feeding_Creepers"}
+minecraft:coal,1,1
