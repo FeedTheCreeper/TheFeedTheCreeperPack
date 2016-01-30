@@ -27,7 +27,7 @@ Eureka-1.7.10-3.0.2.jar
 ExtraTiC-1.7.10-1.4.5.jar
 Farseek-1.0.10.jar
 FastLeafDecay-1.7.10-1.4.jar
-Feed the Creeper Tweaks-1.7.10-2.2.2-142-universal.jar
+Feed.the.Creeper.Tweaks-1.7.10-2.2.3-143-universal.jar
 FlatSigns-1.7.10-universal-2.1.0.19.jar
 forestry_1.7.10-4.2.5.53.jar
 Ganys End-1.11.2.jar

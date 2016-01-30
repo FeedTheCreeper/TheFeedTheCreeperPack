@@ -27,7 +27,7 @@ Updated
  · CoFH Core 3.1.0-323
  · Dragon API 10d
  · Fast Leaf Decay 1.4
- · Feed the Creeper Tweak 2.2.2
+ · Feed the Creeper Tweak 2.2.3
  · Forestry 4.2.5.53
  · Gany's End 1.11.2
  · Gany's Nether 1.8.3
